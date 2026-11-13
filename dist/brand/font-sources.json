@@ -1,0 +1,36 @@
+[
+  {
+    "font": "hind-medium",
+    "file": "hind-medium.ttf",
+    "source": "https://fonts.gstatic.com/s/hind/v18/5aU19_a8oxmIfJpbIRs.ttf"
+  },
+  {
+    "font": "dm-mono",
+    "file": "dm-mono.ttf",
+    "source": "https://fonts.gstatic.com/s/dmmono/v16/aFTU7PB1QTsUX8KYhh0.ttf"
+  },
+  {
+    "font": "Montserrat",
+    "weight": 400,
+    "file": "montserrat-400.ttf",
+    "source": "https://fonts.gstatic.com/s/montserrat/v31/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Ew-.ttf"
+  },
+  {
+    "font": "Montserrat",
+    "weight": 500,
+    "file": "montserrat-500.ttf",
+    "source": "https://fonts.gstatic.com/s/montserrat/v31/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Ew-.ttf"
+  },
+  {
+    "font": "Montserrat",
+    "weight": 600,
+    "file": "montserrat-600.ttf",
+    "source": "https://fonts.gstatic.com/s/montserrat/v31/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu170w-.ttf"
+  },
+  {
+    "font": "Montserrat",
+    "weight": 700,
+    "file": "montserrat-700.ttf",
+    "source": "https://fonts.gstatic.com/s/montserrat/v31/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM70w-.ttf"
+  }
+]

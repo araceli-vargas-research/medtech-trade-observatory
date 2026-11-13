@@ -1,0 +1,442 @@
+@font-face {
+  font-family: Montserrat;
+  src: url("brand/montserrat-400.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: Montserrat;
+  src: url("brand/montserrat-500.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: Montserrat;
+  src: url("brand/montserrat-600.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: Montserrat;
+  src: url("brand/montserrat-700.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: Hind;
+  src: url("brand/hind-medium.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "DM Mono";
+  src: url("brand/dm-mono.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+
+:root {
+  color-scheme: light;
+  --ink: #22264e;
+  --muted: #626b88;
+  --paper: #fff;
+  --line: #d8dce7;
+  --coral: #e95c1f;
+  --teal: #1e6f78;
+  --ccc-warm: #fff7ef;
+  --ccc-mist: #e7ecf4;
+  --ccc-sand: #cdb79f;
+  font-family: Montserrat, Arial, sans-serif;
+  color: var(--ink);
+  background: var(--paper);
+}
+
+body {
+  background: var(--paper);
+  color: var(--ink);
+  font-family: Montserrat, Arial, sans-serif;
+  font-size: 14px;
+}
+
+button,
+input,
+select {
+  font-family: Montserrat, Arial, sans-serif;
+}
+
+button:focus-visible,
+a:focus-visible,
+select:focus-visible,
+input:focus-visible {
+  outline-color: var(--coral);
+}
+
+header {
+  max-width: 1440px;
+  min-height: 94px;
+  padding: 14px 5%;
+  border-bottom: 4px solid var(--coral);
+  background: #fff;
+  box-shadow: 0 3px 18px #0000000d;
+}
+
+.brand-lockup {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  min-width: 0;
+  color: var(--ink);
+  text-decoration: none;
+}
+
+.ccc-logo {
+  display: block;
+  width: 156px;
+  height: 66px;
+  flex: none;
+  object-fit: contain;
+}
+
+.brand-copy {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  padding-left: 20px;
+  border-left: 1px solid var(--line);
+}
+
+.brand-copy small {
+  color: var(--coral);
+  font-family: "DM Mono", monospace;
+  font-size: 9px;
+  font-weight: 400;
+  letter-spacing: 1.5px;
+}
+
+.brand-title {
+  color: var(--ink);
+  font-size: 15px;
+  font-weight: 700;
+  letter-spacing: -0.3px;
+}
+
+nav {
+  gap: 22px;
+  color: var(--ink);
+  font-size: 12px;
+  font-weight: 500;
+}
+
+nav a:hover,
+.source-links a:hover {
+  color: var(--coral);
+}
+
+.download {
+  border-color: var(--ink);
+  border-radius: 2px;
+  font-weight: 600;
+}
+
+.download:hover {
+  border-color: var(--ink);
+  background: var(--ink);
+  color: #fff;
+}
+
+main {
+  max-width: 1320px;
+}
+
+h1,
+h2 {
+  color: var(--ink);
+  font-family: Montserrat, Arial, sans-serif;
+  font-weight: 600;
+  letter-spacing: -1.2px;
+}
+
+h1 {
+  font-size: clamp(34px, 4.2vw, 58px);
+  letter-spacing: -2px;
+}
+
+h2 {
+  font-size: clamp(24px, 2.5vw, 32px);
+}
+
+h3 {
+  color: var(--ink);
+  font-weight: 600;
+}
+
+.eyebrow,
+.edition,
+.code,
+.legend,
+.tag,
+.metric em,
+footer span:first-child {
+  font-family: "DM Mono", monospace;
+}
+
+.eyebrow {
+  color: var(--coral);
+  font-size: 9px;
+  letter-spacing: 1.5px;
+}
+
+.intro,
+.edition small,
+.category-title p,
+.chart-heading p,
+.chart-note,
+.subnote,
+.method p,
+.method-details p {
+  color: var(--muted);
+}
+
+.edition {
+  border-left: 3px solid var(--coral);
+  background: var(--ccc-warm);
+  padding: 18px 20px;
+  min-width: 270px;
+}
+
+.edition p {
+  color: var(--ink);
+  font-family: "DM Mono", monospace;
+  font-size: 24px;
+}
+
+.dot {
+  background: var(--coral);
+}
+
+.scope {
+  border-left-color: var(--coral);
+  background: var(--ccc-warm);
+  color: var(--muted);
+}
+
+.scope strong {
+  color: var(--ink);
+}
+
+select,
+input {
+  border-color: #c9cedd;
+  border-radius: 3px;
+  color: var(--ink);
+}
+
+.category {
+  border-radius: 2px;
+  color: var(--muted);
+}
+
+.category:hover {
+  background: var(--ccc-warm);
+}
+
+.category[aria-pressed="true"] {
+  border-color: #d8dce7;
+  border-left-color: var(--coral);
+  background: var(--ccc-mist);
+  color: var(--ink);
+}
+
+.code {
+  border-color: #c9cedd;
+  color: var(--teal);
+}
+
+.metrics {
+  gap: 10px;
+}
+
+.metric {
+  min-width: 0;
+  padding: 12px 10px;
+  border-top: 3px solid var(--coral);
+  background: var(--ccc-mist);
+}
+
+.metric strong {
+  color: var(--ink);
+  font-family: "DM Mono", monospace;
+  font-size: clamp(20px, 2vw, 27px);
+  font-weight: 400;
+  letter-spacing: -1px;
+}
+
+.metric.canada strong {
+  color: var(--coral);
+}
+
+.metric em {
+  font-size: 9px;
+}
+
+.chart-panel,
+.table-wrap {
+  border-color: var(--line);
+  border-radius: 3px;
+  box-shadow: 0 5px 20px #10102b0a;
+}
+
+.bar {
+  background: var(--teal);
+}
+
+.bar-row.ca .bar,
+.legend i {
+  background: var(--coral);
+}
+
+.bar-row.ca {
+  color: var(--coral);
+}
+
+.insight {
+  border-left-color: var(--coral);
+  background: var(--ccc-warm);
+  color: var(--ink);
+}
+
+.tag,
+th {
+  background: var(--ccc-mist);
+  color: var(--ink);
+}
+
+td button:hover {
+  color: var(--coral);
+}
+
+.ca-cell {
+  color: var(--coral);
+}
+
+.method {
+  border-top-color: var(--line);
+}
+
+.method-details details {
+  border-bottom-color: var(--line);
+}
+
+.method-details summary {
+  color: var(--ink);
+  font-weight: 600;
+}
+
+.method-details summary::marker {
+  color: var(--coral);
+}
+
+footer {
+  border-top-color: var(--line);
+  color: var(--muted);
+}
+
+footer span:first-child {
+  color: var(--ink);
+  font-size: 9px;
+  letter-spacing: 1px;
+}
+
+@media (max-width: 1000px) {
+  .brand-lockup {
+    gap: 13px;
+  }
+
+  .ccc-logo {
+    width: 128px;
+  }
+
+  .brand-copy {
+    padding-left: 13px;
+  }
+}
+
+@media (max-width: 700px) {
+  header {
+    min-height: 86px;
+    padding: 12px 5%;
+  }
+
+  .brand-lockup {
+    gap: 9px;
+  }
+
+  .ccc-logo {
+    width: 96px;
+    height: 48px;
+  }
+
+  .brand-copy {
+    gap: 3px;
+    padding-left: 9px;
+  }
+
+  .brand-copy small {
+    font-size: 8px;
+    letter-spacing: 1px;
+  }
+
+  .brand-title {
+    font-size: 11px;
+    line-height: 1.4;
+  }
+
+  nav {
+    gap: 14px;
+    font-size: 10px;
+  }
+
+  h1 {
+    font-size: clamp(32px, 9vw, 46px);
+  }
+
+  .metric {
+    padding: 10px 8px;
+  }
+
+  .edition {
+    border-left: 0;
+    border-top: 3px solid var(--coral);
+    padding: 16px 0 0;
+    background: transparent;
+  }
+}
+
+@media (max-width: 420px) {
+  header {
+    align-items: flex-start;
+    flex-direction: column;
+    gap: 10px;
+  }
+
+  nav {
+    width: 100%;
+    justify-content: space-between;
+  }
+
+  nav .download {
+    display: inline-block;
+    padding: 7px 9px;
+  }
+}

@@ -15,6 +15,7 @@ Country concentration is not firm concentration, substitutability, or imports' s
 ## Files
 
 - `dist/`: deployable site, styles, script, downloadable CSV/JSON and original Excel source.
+- `dist/brand.css` and `dist/brand/`: CCC brand styling, logo, locally bundled typefaces, font licenses and source metadata.
 - `scripts/import_data.py`: standard-library extraction and reconciliation script.
 - `.github/workflows/pages.yml`: optional GitHub Pages deployment.
 
