@@ -1,0 +1,6103 @@
+{
+  "retrieved": "2026-11-11",
+  "source": "https://dataweb.usitc.gov/trade/search/Import/HTS",
+  "descriptions": {
+    "38221900": "Other diagnostic or laboratory reagents, other than for malaria, Zika or blood-grouping",
+    "90230000": "Instruments, apparatus and models, designed for demonstrational purposes, unsuitable for other uses, and parts and accessories thereof",
+    "90273080": "Nonelectrical spectrometers, spectrophotometers and spectrographs using optical radiations (ultraviolet, visible, infrared)",
+    "90189060": "Electro-surgical instruments and appliances nesoi, other than extracorporeal shock wave lithotripters and parts and accessories thereof",
+    "38229000": "Certified reference materials relating to diagnostic or laboratory reagents"
+  },
+  "records": [
+    {
+      "period": "2025",
+      "code": "38221900",
+      "country": "Afghanistan",
+      "value": 5127
+    },
+    {
+      "period": "2025",
+      "code": "90230000",
+      "country": "Albania",
+      "value": 6510
+    },
+    {
+      "period": "2025",
+      "code": "90230000",
+      "country": "Algeria",
+      "value": 15681
+    },
+    {
+      "period": "2025",
+      "code": "38221900",
+      "country": "Argentina",
+      "value": 4270760
+    },
+    {
+      "period": "2025",
+      "code": "90273080",
+      "country": "Argentina",
+      "value": 140000
+    },
+    {
+      "period": "2025",
+      "code": "90230000",
+      "country": "Argentina",
+      "value": 24215
+    },
+    {
+      "period": "2025",
+      "code": "90273080",
+      "country": "Armenia",
+      "value": 8910
+    },
+    {
+      "period": "2025",
+      "code": "38221900",
+      "country": "Armenia",
+      "value": 4454
+    },
+    {
+      "period": "2025",
+      "code": "90230000",
+      "country": "Aruba",
+      "value": 2500
+    },
+    {
+      "period": "2025",
+      "code": "90230000",
+      "country": "Australia",
+      "value": 6588540
+    },
+    {
+      "period": "2025",
+      "code": "38221900",
+      "country": "Australia",
+      "value": 20909956
+    },
+    {
+      "period": "2025",
+      "code": "90189060",
+      "country": "Australia",
+      "value": 213995
+    },
+    {
+      "period": "2025",
+      "code": "38229000",
+      "country": "Australia",
+      "value": 7176081
+    },
+    {
+      "period": "2025",
+      "code": "90273080",
+      "country": "Australia",
+      "value": 1101103
+    },
+    {
+      "period": "2025",
+      "code": "90230000",
+      "country": "Austria",
+      "value": 3077804
+    },
+    {
+      "period": "2025",
+      "code": "38229000",
+      "country": "Austria",
+      "value": 5446469
+    },
+    {
+      "period": "2025",
+      "code": "90189060",
+      "country": "Austria",
+      "value": 5568825
+    },
+    {
+      "period": "2025",
+      "code": "90273080",
+      "country": "Austria",
+      "value": 7347849
+    },
+    {
+      "period": "2025",
+      "code": "38221900",
+      "country": "Austria",
+      "value": 40886260
+    },
+    {
+      "period": "2025",
+      "code": "90230000",
+      "country": "Bahrain",
+      "value": 42600
+    },
+    {
+      "period": "2025",
+      "code": "90230000",
+      "country": "Bangladesh",
+      "value": 6258139
+    },
+    {
+      "period": "2025",
+      "code": "90230000",
+      "country": "Barbados",
+      "value": 2500
+    },
+    {
+      "period": "2025",
+      "code": "38229000",
+      "country": "Belgium",
+      "value": 1976612
+    },
+    {
+      "period": "2025",
+      "code": "90189060",
+      "country": "Belgium",
+      "value": 993110
+    },
+    {
+      "period": "2025",
+      "code": "90230000",
+      "country": "Belgium",
+      "value": 3833672
+    },
+    {
+      "period": "2025",
+      "code": "90273080",
+      "country": "Belgium",
+      "value": 659507
+    },
+    {
+      "period": "2025",
+      "code": "38221900",
+      "country": "Belgium",
+      "value": 38512670
+    },
+    {
+      "period": "2025",
+      "code": "38221900",
+      "country": "Bermuda",
+      "value": 10000
+    },
+    {
+      "period": "2025",
+      "code": "38221900",
+      "country": "Bolivia",
+      "value": 10875
+    },
+    {
+      "period": "2025",
+      "code": "38221900",
+      "country": "Brazil",
+      "value": 3322417
+    },
+    {
+      "period": "2025",
+      "code": "90273080",
+      "country": "Brazil",
+      "value": 35934
+    },
+    {
+      "period": "2025",
+      "code": "90189060",
+      "country": "Brazil",
+      "value": 155130
+    },
+    {
+      "period": "2025",
+      "code": "90230000",
+      "country": "Brazil",
+      "value": 2780596
+    },
+    {
+      "period": "2025",
+      "code": "38229000",
+      "country": "Brazil",
+      "value": 89559
+    },
+    {
+      "period": "2025",
+      "code": "90189060",
+      "country": "Bulgaria",
+      "value": 22383911
+    },
+    {
+      "period": "2025",
+      "code": "38221900",
+      "country": "Bulgaria",
+      "value": 105914
+    },
+    {
+      "period": "2025",
+      "code": "90230000",
+      "country": "Bulgaria",
+      "value": 568037
+    },
+    {
+      "period": "2025",
+      "code": "38229000",
+      "country": "Bulgaria",
+      "value": 125062
+    },
+    {
+      "period": "2025",
+      "code": "90273080",
+      "country": "Bulgaria",
+      "value": 1105824
+    },
+    {
+      "period": "2025",
+      "code": "90230000",
+      "country": "Cambodia",
+      "value": 547579
+    },
+    {
+      "period": "2025",
+      "code": "90189060",
+      "country": "Cambodia",
+      "value": 2400
+    },
+    {
+      "period": "2025",
+      "code": "38221900",
+      "country": "Cameroon",
+      "value": 6500
+    },
+    {
+      "period": "2025",
+      "code": "38229000",
+      "country": "Canada",
+      "value": 21171632
+    },
+    {
+      "period": "2025",
+      "code": "90189060",
+      "country": "Canada",
+      "value": 465990353
+    },
+    {
+      "period": "2025",
+      "code": "90230000",
+      "country": "Canada",
+      "value": 96961637
+    },
+    {
+      "period": "2025",
+      "code": "38221900",
+      "country": "Canada",
+      "value": 436339877
+    },
+    {
+      "period": "2025",
+      "code": "90273080",
+      "country": "Canada",
+      "value": 3759493
+    },
+    {
+      "period": "2025",
+      "code": "90273080",
+      "country": "Cayman Islands",
+      "value": 7500
+    },
+    {
+      "period": "2025",
+      "code": "90273080",
+      "country": "Chile",
+      "value": 4637
+    },
+    {
+      "period": "2025",
+      "code": "90189060",
+      "country": "Chile",
+      "value": 2604
+    },
+    {
+      "period": "2025",
+      "code": "90230000",
+      "country": "Chile",
+      "value": 108355
+    },
+    {
+      "period": "2025",
+      "code": "38221900",
+      "country": "Chile",
+      "value": 2201066
+    },
+    {
+      "period": "2025",
+      "code": "38229000",
+      "country": "China",
+      "value": 3055421
+    },
+    {
+      "period": "2025",
+      "code": "90230000",
+      "country": "China",
+      "value": 103043382
+    },
+    {
+      "period": "2025",
+      "code": "90273080",
+      "country": "China",
+      "value": 730649
+    },
+    {
+      "period": "2025",
+      "code": "90189060",
+      "country": "China",
+      "value": 118030077
+    },
+    {
+      "period": "2025",
+      "code": "38221900",
+      "country": "China",
+      "value": 274596242
+    },
+    {
+      "period": "2025",
+      "code": "90230000",
+      "country": "Colombia",
+      "value": 183625
+    },
+    {
+      "period": "2025",
+      "code": "38221900",
+      "country": "Colombia",
+      "value": 13614
+    },
+    {
+      "period": "2025",
+      "code": "90189060",
+      "country": "Costa Rica",
+      "value": 614183911
+    },
+    {
+      "period": "2025",
+      "code": "38221900",
+      "country": "Costa Rica",
+      "value": 362513
+    },
+    {
+      "period": "2025",
+      "code": "90273080",
+      "country": "Costa Rica",
+      "value": 4432
+    },
+    {
+      "period": "2025",
+      "code": "90230000",
+      "country": "Costa Rica",
+      "value": 2462228
+    },
+    {
+      "period": "2025",
+      "code": "38229000",
+      "country": "Croatia",
+      "value": 5000
+    },
+    {
+      "period": "2025",
+      "code": "90230000",
+      "country": "Croatia",
+      "value": 1434389
+    },
+    {
+      "period": "2025",
+      "code": "90230000",
+      "country": "Cyprus",
+      "value": 3500
+    },
+    {
+      "period": "2025",
+      "code": "90273080",
+      "country": "Cyprus",
+      "value": 40500
+    },
+    {
+      "period": "2025",
+      "code": "90230000",
+      "country": "Czechia (Czech Republic)",
+      "value": 8742362
+    },
+    {
+      "period": "2025",
+      "code": "90273080",
+      "country": "Czechia (Czech Republic)",
+      "value": 229445
+    },
+    {
+      "period": "2025",
+      "code": "90189060",
+      "country": "Czechia (Czech Republic)",
+      "value": 103470081
+    },
+    {
+      "period": "2025",
+      "code": "38229000",
+      "country": "Czechia (Czech Republic)",
+      "value": 335236
+    },
+    {
+      "period": "2025",
+      "code": "38221900",
+      "country": "Czechia (Czech Republic)",
+      "value": 1405999
+    },
+    {
+      "period": "2025",
+      "code": "38221900",
+      "country": "Denmark",
+      "value": 36602030
+    },
+    {
+      "period": "2025",
+      "code": "90230000",
+      "country": "Denmark",
+      "value": 6498566
+    },
+    {
+      "period": "2025",
+      "code": "90273080",
+      "country": "Denmark",
+      "value": 2473784
+    },
+    {
+      "period": "2025",
+      "code": "38229000",
+      "country": "Denmark",
+      "value": 2367615
+    },
+    {
+      "period": "2025",
+      "code": "90189060",
+      "country": "Denmark",
+      "value": 6481082
+    },
+    {
+      "period": "2025",
+      "code": "38221900",
+      "country": "Dominican Republic",
+      "value": 8899
+    },
+    {
+      "period": "2025",
+      "code": "90189060",
+      "country": "Dominican Republic",
+      "value": 212494594
+    },
+    {
+      "period": "2025",
+      "code": "90230000",
+      "country": "Dominican Republic",
+      "value": 244977
+    },
+    {
+      "period": "2025",
+      "code": "38229000",
+      "country": "Ecuador",
+      "value": 19100
+    },
+    {
+      "period": "2025",
+      "code": "38221900",
+      "country": "Ecuador",
+      "value": 10497
+    },
+    {
+      "period": "2025",
+      "code": "90230000",
+      "country": "Ecuador",
+      "value": 54754
+    },
+    {
+      "period": "2025",
+      "code": "90273080",
+      "country": "Ecuador",
+      "value": 17661
+    },
+    {
+      "period": "2025",
+      "code": "90230000",
+      "country": "Egypt",
+      "value": 14500
+    },
+    {
+      "period": "2025",
+      "code": "90273080",
+      "country": "Egypt",
+      "value": 3811
+    },
+    {
+      "period": "2025",
+      "code": "38221900",
+      "country": "Estonia",
+      "value": 351632
+    },
+    {
+      "period": "2025",
+      "code": "90273080",
+      "country": "Estonia",
+      "value": 147603
+    },
+    {
+      "period": "2025",
+      "code": "38229000",
+      "country": "Estonia",
+      "value": 196278
+    },
+    {
+      "period": "2025",
+      "code": "90230000",
+      "country": "Estonia",
+      "value": 274147
+    },
+    {
+      "period": "2025",
+      "code": "90189060",
+      "country": "Estonia",
+      "value": 161050
+    },
+    {
+      "period": "2025",
+      "code": "38221900",
+      "country": "Eswatini (Swaziland)",
+      "value": 2114
+    },
+    {
+      "period": "2025",
+      "code": "38221900",
+      "country": "Finland",
+      "value": 72078327
+    },
+    {
+      "period": "2025",
+      "code": "90273080",
+      "country": "Finland",
+      "value": 2546740
+    },
+    {
+      "period": "2025",
+      "code": "38229000",
+      "country": "Finland",
+      "value": 9285
+    },
+    {
+      "period": "2025",
+      "code": "90230000",
+      "country": "Finland",
+      "value": 2714115
+    },
+    {
+      "period": "2025",
+      "code": "90273080",
+      "country": "France",
+      "value": 2646086
+    },
+    {
+      "period": "2025",
+      "code": "90189060",
+      "country": "France",
+      "value": 8451328
+    },
+    {
+      "period": "2025",
+      "code": "90230000",
+      "country": "France",
+      "value": 8087834
+    },
+    {
+      "period": "2025",
+      "code": "38229000",
+      "country": "France",
+      "value": 1617989
+    },
+    {
+      "period": "2025",
+      "code": "38221900",
+      "country": "France",
+      "value": 299796772
+    },
+    {
+      "period": "2025",
+      "code": "38229000",
+      "country": "Gambia",
+      "value": 11503
+    },
+    {
+      "period": "2025",
+      "code": "38229000",
+      "country": "Georgia",
+      "value": 28000
+    },
+    {
+      "period": "2025",
+      "code": "38221900",
+      "country": "Georgia",
+      "value": 15800
+    },
+    {
+      "period": "2025",
+      "code": "90230000",
+      "country": "Germany",
+      "value": 66053997
+    },
+    {
+      "period": "2025",
+      "code": "90189060",
+      "country": "Germany",
+      "value": 343077471
+    },
+    {
+      "period": "2025",
+      "code": "38221900",
+      "country": "Germany",
+      "value": 849935480
+    },
+    {
+      "period": "2025",
+      "code": "90273080",
+      "country": "Germany",
+      "value": 22450743
+    },
+    {
+      "period": "2025",
+      "code": "38229000",
+      "country": "Germany",
+      "value": 11386589
+    },
+    {
+      "period": "2025",
+      "code": "38229000",
+      "country": "Greece",
+      "value": 44000
+    },
+    {
+      "period": "2025",
+      "code": "38221900",
+      "country": "Greece",
+      "value": 163987
+    },
+    {
+      "period": "2025",
+      "code": "90230000",
+      "country": "Greece",
+      "value": 32828
+    },
+    {
+      "period": "2025",
+      "code": "90189060",
+      "country": "Guatemala",
+      "value": 25767
+    },
+    {
+      "period": "2025",
+      "code": "38221900",
+      "country": "Guinea",
+      "value": 2438
+    },
+    {
+      "period": "2025",
+      "code": "90189060",
+      "country": "Honduras",
+      "value": 5551
+    },
+    {
+      "period": "2025",
+      "code": "38221900",
+      "country": "Hong Kong",
+      "value": 466432
+    },
+    {
+      "period": "2025",
+      "code": "90189060",
+      "country": "Hong Kong",
+      "value": 37999
+    },
+    {
+      "period": "2025",
+      "code": "90230000",
+      "country": "Hong Kong",
+      "value": 111235
+    },
+    {
+      "period": "2025",
+      "code": "38229000",
+      "country": "Hong Kong",
+      "value": 109001
+    },
+    {
+      "period": "2025",
+      "code": "38221900",
+      "country": "Hungary",
+      "value": 87603922
+    },
+    {
+      "period": "2025",
+      "code": "90189060",
+      "country": "Hungary",
+      "value": 4495528
+    },
+    {
+      "period": "2025",
+      "code": "90230000",
+      "country": "Hungary",
+      "value": 4280862
+    },
+    {
+      "period": "2025",
+      "code": "38229000",
+      "country": "Hungary",
+      "value": 1838475
+    },
+    {
+      "period": "2025",
+      "code": "90273080",
+      "country": "Hungary",
+      "value": 273210
+    },
+    {
+      "period": "2025",
+      "code": "38221900",
+      "country": "Iceland",
+      "value": 46496
+    },
+    {
+      "period": "2025",
+      "code": "90230000",
+      "country": "Iceland",
+      "value": 4270
+    },
+    {
+      "period": "2025",
+      "code": "38229000",
+      "country": "Iceland",
+      "value": 20365
+    },
+    {
+      "period": "2025",
+      "code": "90189060",
+      "country": "Iceland",
+      "value": 11397
+    },
+    {
+      "period": "2025",
+      "code": "90230000",
+      "country": "India",
+      "value": 5399487
+    },
+    {
+      "period": "2025",
+      "code": "90273080",
+      "country": "India",
+      "value": 719572
+    },
+    {
+      "period": "2025",
+      "code": "90189060",
+      "country": "India",
+      "value": 21474001
+    },
+    {
+      "period": "2025",
+      "code": "38221900",
+      "country": "India",
+      "value": 16910290
+    },
+    {
+      "period": "2025",
+      "code": "38229000",
+      "country": "India",
+      "value": 5890206
+    },
+    {
+      "period": "2025",
+      "code": "38221900",
+      "country": "Indonesia",
+      "value": 1567037
+    },
+    {
+      "period": "2025",
+      "code": "90273080",
+      "country": "Indonesia",
+      "value": 56553
+    },
+    {
+      "period": "2025",
+      "code": "90230000",
+      "country": "Indonesia",
+      "value": 577428
+    },
+    {
+      "period": "2025",
+      "code": "90189060",
+      "country": "Indonesia",
+      "value": 44279
+    },
+    {
+      "period": "2025",
+      "code": "38221900",
+      "country": "Iraq",
+      "value": 6169
+    },
+    {
+      "period": "2025",
+      "code": "38229000",
+      "country": "Ireland",
+      "value": 2412214
+    },
+    {
+      "period": "2025",
+      "code": "90230000",
+      "country": "Ireland",
+      "value": 1772633
+    },
+    {
+      "period": "2025",
+      "code": "90273080",
+      "country": "Ireland",
+      "value": 20394
+    },
+    {
+      "period": "2025",
+      "code": "90189060",
+      "country": "Ireland",
+      "value": 72597346
+    },
+    {
+      "period": "2025",
+      "code": "38221900",
+      "country": "Ireland",
+      "value": 316820660
+    },
+    {
+      "period": "2025",
+      "code": "38221900",
+      "country": "Israel",
+      "value": 3718618
+    },
+    {
+      "period": "2025",
+      "code": "90189060",
+      "country": "Israel",
+      "value": 167888379
+    },
+    {
+      "period": "2025",
+      "code": "90230000",
+      "country": "Israel",
+      "value": 16073196
+    },
+    {
+      "period": "2025",
+      "code": "90273080",
+      "country": "Israel",
+      "value": 484971
+    },
+    {
+      "period": "2025",
+      "code": "38229000",
+      "country": "Israel",
+      "value": 342315
+    },
+    {
+      "period": "2025",
+      "code": "90273080",
+      "country": "Italy",
+      "value": 403853
+    },
+    {
+      "period": "2025",
+      "code": "90230000",
+      "country": "Italy",
+      "value": 9404601
+    },
+    {
+      "period": "2025",
+      "code": "38229000",
+      "country": "Italy",
+      "value": 34174583
+    },
+    {
+      "period": "2025",
+      "code": "90189060",
+      "country": "Italy",
+      "value": 33298989
+    },
+    {
+      "period": "2025",
+      "code": "38221900",
+      "country": "Italy",
+      "value": 114036944
+    },
+    {
+      "period": "2025",
+      "code": "90273080",
+      "country": "Jamaica",
+      "value": 4000
+    },
+    {
+      "period": "2025",
+      "code": "38229000",
+      "country": "Jamaica",
+      "value": 2500
+    },
+    {
+      "period": "2025",
+      "code": "90273080",
+      "country": "Japan",
+      "value": 614282
+    },
+    {
+      "period": "2025",
+      "code": "38221900",
+      "country": "Japan",
+      "value": 215345905
+    },
+    {
+      "period": "2025",
+      "code": "90189060",
+      "country": "Japan",
+      "value": 65221174
+    },
+    {
+      "period": "2025",
+      "code": "38229000",
+      "country": "Japan",
+      "value": 3288344
+    },
+    {
+      "period": "2025",
+      "code": "90230000",
+      "country": "Japan",
+      "value": 25698458
+    },
+    {
+      "period": "2025",
+      "code": "38229000",
+      "country": "Kazakhstan",
+      "value": 8140
+    },
+    {
+      "period": "2025",
+      "code": "90189060",
+      "country": "Kazakhstan",
+      "value": 5814
+    },
+    {
+      "period": "2025",
+      "code": "90230000",
+      "country": "Kazakhstan",
+      "value": 16266
+    },
+    {
+      "period": "2025",
+      "code": "38221900",
+      "country": "Kazakhstan",
+      "value": 436204
+    },
+    {
+      "period": "2025",
+      "code": "38221900",
+      "country": "Kyrgyzstan",
+      "value": 14958
+    },
+    {
+      "period": "2025",
+      "code": "90230000",
+      "country": "Latvia",
+      "value": 63869
+    },
+    {
+      "period": "2025",
+      "code": "90189060",
+      "country": "Latvia",
+      "value": 1554334
+    },
+    {
+      "period": "2025",
+      "code": "38221900",
+      "country": "Latvia",
+      "value": 1723190
+    },
+    {
+      "period": "2025",
+      "code": "38229000",
+      "country": "Latvia",
+      "value": 38555
+    },
+    {
+      "period": "2025",
+      "code": "90230000",
+      "country": "Lebanon",
+      "value": 124030
+    },
+    {
+      "period": "2025",
+      "code": "90230000",
+      "country": "Liechtenstein",
+      "value": 34897
+    },
+    {
+      "period": "2025",
+      "code": "90230000",
+      "country": "Lithuania",
+      "value": 1136117
+    },
+    {
+      "period": "2025",
+      "code": "38229000",
+      "country": "Lithuania",
+      "value": 112322
+    },
+    {
+      "period": "2025",
+      "code": "38221900",
+      "country": "Lithuania",
+      "value": 179649867
+    },
+    {
+      "period": "2025",
+      "code": "90273080",
+      "country": "Lithuania",
+      "value": 779890
+    },
+    {
+      "period": "2025",
+      "code": "90230000",
+      "country": "Luxembourg",
+      "value": 40650
+    },
+    {
+      "period": "2025",
+      "code": "90273080",
+      "country": "Macau",
+      "value": 9456
+    },
+    {
+      "period": "2025",
+      "code": "90230000",
+      "country": "Macau",
+      "value": 347825
+    },
+    {
+      "period": "2025",
+      "code": "38229000",
+      "country": "Madagascar",
+      "value": 2675
+    },
+    {
+      "period": "2025",
+      "code": "90189060",
+      "country": "Malaysia",
+      "value": 49750695
+    },
+    {
+      "period": "2025",
+      "code": "38221900",
+      "country": "Malaysia",
+      "value": 792808
+    },
+    {
+      "period": "2025",
+      "code": "38229000",
+      "country": "Malaysia",
+      "value": 30000
+    },
+    {
+      "period": "2025",
+      "code": "90230000",
+      "country": "Malaysia",
+      "value": 5185172
+    },
+    {
+      "period": "2025",
+      "code": "90273080",
+      "country": "Malaysia",
+      "value": 100049
+    },
+    {
+      "period": "2025",
+      "code": "38221900",
+      "country": "Mali",
+      "value": 6873
+    },
+    {
+      "period": "2025",
+      "code": "90189060",
+      "country": "Mauritius",
+      "value": 261641
+    },
+    {
+      "period": "2025",
+      "code": "38229000",
+      "country": "Mexico",
+      "value": 1116157
+    },
+    {
+      "period": "2025",
+      "code": "90230000",
+      "country": "Mexico",
+      "value": 54027489
+    },
+    {
+      "period": "2025",
+      "code": "90273080",
+      "country": "Mexico",
+      "value": 21453
+    },
+    {
+      "period": "2025",
+      "code": "90189060",
+      "country": "Mexico",
+      "value": 1766440734
+    },
+    {
+      "period": "2025",
+      "code": "38221900",
+      "country": "Mexico",
+      "value": 107059502
+    },
+    {
+      "period": "2025",
+      "code": "90189060",
+      "country": "Monaco",
+      "value": 7100
+    },
+    {
+      "period": "2025",
+      "code": "90230000",
+      "country": "Monaco",
+      "value": 4839
+    },
+    {
+      "period": "2025",
+      "code": "38229000",
+      "country": "Mongolia",
+      "value": 2704
+    },
+    {
+      "period": "2025",
+      "code": "38221900",
+      "country": "Montenegro",
+      "value": 11051
+    },
+    {
+      "period": "2025",
+      "code": "90230000",
+      "country": "Montenegro",
+      "value": 16940
+    },
+    {
+      "period": "2025",
+      "code": "38221900",
+      "country": "Morocco",
+      "value": 80928
+    },
+    {
+      "period": "2025",
+      "code": "90230000",
+      "country": "Morocco",
+      "value": 89848
+    },
+    {
+      "period": "2025",
+      "code": "38229000",
+      "country": "Netherlands",
+      "value": 2977741
+    },
+    {
+      "period": "2025",
+      "code": "90189060",
+      "country": "Netherlands",
+      "value": 775449
+    },
+    {
+      "period": "2025",
+      "code": "90273080",
+      "country": "Netherlands",
+      "value": 1851560
+    },
+    {
+      "period": "2025",
+      "code": "38221900",
+      "country": "Netherlands",
+      "value": 49887564
+    },
+    {
+      "period": "2025",
+      "code": "90230000",
+      "country": "Netherlands",
+      "value": 9805527
+    },
+    {
+      "period": "2025",
+      "code": "38229000",
+      "country": "New Zealand",
+      "value": 560446
+    },
+    {
+      "period": "2025",
+      "code": "38221900",
+      "country": "New Zealand",
+      "value": 700525
+    },
+    {
+      "period": "2025",
+      "code": "90273080",
+      "country": "New Zealand",
+      "value": 137574
+    },
+    {
+      "period": "2025",
+      "code": "90230000",
+      "country": "New Zealand",
+      "value": 220628
+    },
+    {
+      "period": "2025",
+      "code": "90189060",
+      "country": "Nicaragua",
+      "value": 53936
+    },
+    {
+      "period": "2025",
+      "code": "90230000",
+      "country": "Norway",
+      "value": 42785205
+    },
+    {
+      "period": "2025",
+      "code": "90273080",
+      "country": "Norway",
+      "value": 2877470
+    },
+    {
+      "period": "2025",
+      "code": "38229000",
+      "country": "Norway",
+      "value": 94810
+    },
+    {
+      "period": "2025",
+      "code": "38221900",
+      "country": "Norway",
+      "value": 151419232
+    },
+    {
+      "period": "2025",
+      "code": "90189060",
+      "country": "Pakistan",
+      "value": 217090
+    },
+    {
+      "period": "2025",
+      "code": "90230000",
+      "country": "Pakistan",
+      "value": 365236
+    },
+    {
+      "period": "2025",
+      "code": "38221900",
+      "country": "Pakistan",
+      "value": 3838
+    },
+    {
+      "period": "2025",
+      "code": "90230000",
+      "country": "Panama",
+      "value": 50000
+    },
+    {
+      "period": "2025",
+      "code": "90189060",
+      "country": "Paraguay",
+      "value": 103374
+    },
+    {
+      "period": "2025",
+      "code": "90189060",
+      "country": "Peru",
+      "value": 13000
+    },
+    {
+      "period": "2025",
+      "code": "90230000",
+      "country": "Peru",
+      "value": 110094
+    },
+    {
+      "period": "2025",
+      "code": "90189060",
+      "country": "Philippines",
+      "value": 217944
+    },
+    {
+      "period": "2025",
+      "code": "38221900",
+      "country": "Philippines",
+      "value": 5040
+    },
+    {
+      "period": "2025",
+      "code": "90230000",
+      "country": "Philippines",
+      "value": 1039168
+    },
+    {
+      "period": "2025",
+      "code": "90230000",
+      "country": "Poland",
+      "value": 4172088
+    },
+    {
+      "period": "2025",
+      "code": "90273080",
+      "country": "Poland",
+      "value": 141982
+    },
+    {
+      "period": "2025",
+      "code": "90189060",
+      "country": "Poland",
+      "value": 100269258
+    },
+    {
+      "period": "2025",
+      "code": "38229000",
+      "country": "Poland",
+      "value": 233086
+    },
+    {
+      "period": "2025",
+      "code": "38221900",
+      "country": "Poland",
+      "value": 28800963
+    },
+    {
+      "period": "2025",
+      "code": "90273080",
+      "country": "Portugal",
+      "value": 27750
+    },
+    {
+      "period": "2025",
+      "code": "38229000",
+      "country": "Portugal",
+      "value": 58978
+    },
+    {
+      "period": "2025",
+      "code": "38221900",
+      "country": "Portugal",
+      "value": 171430
+    },
+    {
+      "period": "2025",
+      "code": "90230000",
+      "country": "Portugal",
+      "value": 1389888
+    },
+    {
+      "period": "2025",
+      "code": "90230000",
+      "country": "Qatar",
+      "value": 2495
+    },
+    {
+      "period": "2025",
+      "code": "38221900",
+      "country": "Romania",
+      "value": 16801
+    },
+    {
+      "period": "2025",
+      "code": "90230000",
+      "country": "Romania",
+      "value": 233674
+    },
+    {
+      "period": "2025",
+      "code": "38229000",
+      "country": "Romania",
+      "value": 1043489
+    },
+    {
+      "period": "2025",
+      "code": "90273080",
+      "country": "Romania",
+      "value": 737515
+    },
+    {
+      "period": "2025",
+      "code": "90189060",
+      "country": "Romania",
+      "value": 2789770
+    },
+    {
+      "period": "2025",
+      "code": "38221900",
+      "country": "Russia",
+      "value": 27823
+    },
+    {
+      "period": "2025",
+      "code": "38229000",
+      "country": "Russia",
+      "value": 11552
+    },
+    {
+      "period": "2025",
+      "code": "38221900",
+      "country": "Saudi Arabia",
+      "value": 4000
+    },
+    {
+      "period": "2025",
+      "code": "90230000",
+      "country": "Saudi Arabia",
+      "value": 12295
+    },
+    {
+      "period": "2025",
+      "code": "90273080",
+      "country": "Serbia",
+      "value": 312066
+    },
+    {
+      "period": "2025",
+      "code": "90230000",
+      "country": "Serbia",
+      "value": 13692
+    },
+    {
+      "period": "2025",
+      "code": "38229000",
+      "country": "Serbia",
+      "value": 15860
+    },
+    {
+      "period": "2025",
+      "code": "38221900",
+      "country": "Serbia",
+      "value": 15141
+    },
+    {
+      "period": "2025",
+      "code": "38229000",
+      "country": "Singapore",
+      "value": 11737
+    },
+    {
+      "period": "2025",
+      "code": "38221900",
+      "country": "Singapore",
+      "value": 624013699
+    },
+    {
+      "period": "2025",
+      "code": "90273080",
+      "country": "Singapore",
+      "value": 137666
+    },
+    {
+      "period": "2025",
+      "code": "90230000",
+      "country": "Singapore",
+      "value": 651680
+    },
+    {
+      "period": "2025",
+      "code": "90189060",
+      "country": "Singapore",
+      "value": 3746903
+    },
+    {
+      "period": "2025",
+      "code": "38229000",
+      "country": "Slovakia",
+      "value": 10689
+    },
+    {
+      "period": "2025",
+      "code": "90189060",
+      "country": "Slovakia",
+      "value": 11952
+    },
+    {
+      "period": "2025",
+      "code": "90230000",
+      "country": "Slovakia",
+      "value": 71160
+    },
+    {
+      "period": "2025",
+      "code": "38221900",
+      "country": "Slovakia",
+      "value": 303419
+    },
+    {
+      "period": "2025",
+      "code": "90273080",
+      "country": "Slovakia",
+      "value": 963440
+    },
+    {
+      "period": "2025",
+      "code": "38221900",
+      "country": "Slovenia",
+      "value": 2060
+    },
+    {
+      "period": "2025",
+      "code": "90230000",
+      "country": "Slovenia",
+      "value": 543973
+    },
+    {
+      "period": "2025",
+      "code": "90189060",
+      "country": "Slovenia",
+      "value": 45000
+    },
+    {
+      "period": "2025",
+      "code": "90230000",
+      "country": "South Africa",
+      "value": 1333234
+    },
+    {
+      "period": "2025",
+      "code": "90273080",
+      "country": "South Africa",
+      "value": 5000
+    },
+    {
+      "period": "2025",
+      "code": "38221900",
+      "country": "South Africa",
+      "value": 9732036
+    },
+    {
+      "period": "2025",
+      "code": "38229000",
+      "country": "South Africa",
+      "value": 11531
+    },
+    {
+      "period": "2025",
+      "code": "90273080",
+      "country": "South Korea",
+      "value": 334236
+    },
+    {
+      "period": "2025",
+      "code": "38229000",
+      "country": "South Korea",
+      "value": 658918
+    },
+    {
+      "period": "2025",
+      "code": "90230000",
+      "country": "South Korea",
+      "value": 6228284
+    },
+    {
+      "period": "2025",
+      "code": "38221900",
+      "country": "South Korea",
+      "value": 76691428
+    },
+    {
+      "period": "2025",
+      "code": "90189060",
+      "country": "South Korea",
+      "value": 83889060
+    },
+    {
+      "period": "2025",
+      "code": "38221900",
+      "country": "Spain",
+      "value": 113706233
+    },
+    {
+      "period": "2025",
+      "code": "90189060",
+      "country": "Spain",
+      "value": 36353
+    },
+    {
+      "period": "2025",
+      "code": "38229000",
+      "country": "Spain",
+      "value": 757713
+    },
+    {
+      "period": "2025",
+      "code": "90230000",
+      "country": "Spain",
+      "value": 7608785
+    },
+    {
+      "period": "2025",
+      "code": "90273080",
+      "country": "Spain",
+      "value": 469730
+    },
+    {
+      "period": "2025",
+      "code": "38221900",
+      "country": "Sri Lanka",
+      "value": 2567
+    },
+    {
+      "period": "2025",
+      "code": "90189060",
+      "country": "Sweden",
+      "value": 4948002
+    },
+    {
+      "period": "2025",
+      "code": "38221900",
+      "country": "Sweden",
+      "value": 496657025
+    },
+    {
+      "period": "2025",
+      "code": "90230000",
+      "country": "Sweden",
+      "value": 28173815
+    },
+    {
+      "period": "2025",
+      "code": "38229000",
+      "country": "Sweden",
+      "value": 2465545
+    },
+    {
+      "period": "2025",
+      "code": "90273080",
+      "country": "Sweden",
+      "value": 1048529
+    },
+    {
+      "period": "2025",
+      "code": "38229000",
+      "country": "Switzerland",
+      "value": 2519829
+    },
+    {
+      "period": "2025",
+      "code": "90230000",
+      "country": "Switzerland",
+      "value": 12104156
+    },
+    {
+      "period": "2025",
+      "code": "38221900",
+      "country": "Switzerland",
+      "value": 15921754
+    },
+    {
+      "period": "2025",
+      "code": "90273080",
+      "country": "Switzerland",
+      "value": 2728318
+    },
+    {
+      "period": "2025",
+      "code": "90189060",
+      "country": "Switzerland",
+      "value": 65690272
+    },
+    {
+      "period": "2025",
+      "code": "90273080",
+      "country": "Taiwan",
+      "value": 640349
+    },
+    {
+      "period": "2025",
+      "code": "38221900",
+      "country": "Taiwan",
+      "value": 38520783
+    },
+    {
+      "period": "2025",
+      "code": "90230000",
+      "country": "Taiwan",
+      "value": 16173430
+    },
+    {
+      "period": "2025",
+      "code": "38229000",
+      "country": "Taiwan",
+      "value": 2631783
+    },
+    {
+      "period": "2025",
+      "code": "90189060",
+      "country": "Taiwan",
+      "value": 110009771
+    },
+    {
+      "period": "2025",
+      "code": "90230000",
+      "country": "Tanzania",
+      "value": 2346
+    },
+    {
+      "period": "2025",
+      "code": "90273080",
+      "country": "Thailand",
+      "value": 5000
+    },
+    {
+      "period": "2025",
+      "code": "90230000",
+      "country": "Thailand",
+      "value": 4968983
+    },
+    {
+      "period": "2025",
+      "code": "38229000",
+      "country": "Thailand",
+      "value": 6829
+    },
+    {
+      "period": "2025",
+      "code": "38221900",
+      "country": "Thailand",
+      "value": 16858
+    },
+    {
+      "period": "2025",
+      "code": "90189060",
+      "country": "Thailand",
+      "value": 119847408
+    },
+    {
+      "period": "2025",
+      "code": "90230000",
+      "country": "Turkey",
+      "value": 7876299
+    },
+    {
+      "period": "2025",
+      "code": "38229000",
+      "country": "Turkey",
+      "value": 2703454
+    },
+    {
+      "period": "2025",
+      "code": "90273080",
+      "country": "Turkey",
+      "value": 41900
+    },
+    {
+      "period": "2025",
+      "code": "90189060",
+      "country": "Turkey",
+      "value": 12502
+    },
+    {
+      "period": "2025",
+      "code": "38221900",
+      "country": "Turkey",
+      "value": 612767
+    },
+    {
+      "period": "2025",
+      "code": "90230000",
+      "country": "Turks and Caicos Islands",
+      "value": 33164
+    },
+    {
+      "period": "2025",
+      "code": "38221900",
+      "country": "Ukraine",
+      "value": 17815803
+    },
+    {
+      "period": "2025",
+      "code": "90230000",
+      "country": "Ukraine",
+      "value": 316413
+    },
+    {
+      "period": "2025",
+      "code": "38229000",
+      "country": "Ukraine",
+      "value": 70050
+    },
+    {
+      "period": "2025",
+      "code": "90230000",
+      "country": "United Arab Emirates",
+      "value": 972866
+    },
+    {
+      "period": "2025",
+      "code": "90230000",
+      "country": "United Kingdom",
+      "value": 49875456
+    },
+    {
+      "period": "2025",
+      "code": "38229000",
+      "country": "United Kingdom",
+      "value": 24890355
+    },
+    {
+      "period": "2025",
+      "code": "90273080",
+      "country": "United Kingdom",
+      "value": 6687990
+    },
+    {
+      "period": "2025",
+      "code": "90189060",
+      "country": "United Kingdom",
+      "value": 31822936
+    },
+    {
+      "period": "2025",
+      "code": "38221900",
+      "country": "United Kingdom",
+      "value": 723964717
+    },
+    {
+      "period": "2025",
+      "code": "90230000",
+      "country": "Uruguay",
+      "value": 16505
+    },
+    {
+      "period": "2025",
+      "code": "90189060",
+      "country": "Vietnam",
+      "value": 19097142
+    },
+    {
+      "period": "2025",
+      "code": "38221900",
+      "country": "Vietnam",
+      "value": 43698
+    },
+    {
+      "period": "2025",
+      "code": "90230000",
+      "country": "Vietnam",
+      "value": 9066580
+    },
+    {
+      "period": "2025",
+      "code": "90273080",
+      "country": "Vietnam",
+      "value": 32033
+    },
+    {
+      "period": "2025",
+      "code": "38229000",
+      "country": "Vietnam",
+      "value": 9820406
+    },
+    {
+      "period": "2025-ytd",
+      "code": "38221900",
+      "country": "Afghanistan",
+      "value": 5127
+    },
+    {
+      "period": "2026-ytd",
+      "code": "38221900",
+      "country": "Afghanistan",
+      "value": 0
+    },
+    {
+      "period": "2025-ytd",
+      "code": "90230000",
+      "country": "Albania",
+      "value": 0
+    },
+    {
+      "period": "2026-ytd",
+      "code": "90230000",
+      "country": "Albania",
+      "value": 0
+    },
+    {
+      "period": "2025-ytd",
+      "code": "90230000",
+      "country": "Algeria",
+      "value": 0
+    },
+    {
+      "period": "2026-ytd",
+      "code": "90230000",
+      "country": "Algeria",
+      "value": 0
+    },
+    {
+      "period": "2025-ytd",
+      "code": "90273080",
+      "country": "Argentina",
+      "value": 140000
+    },
+    {
+      "period": "2026-ytd",
+      "code": "90273080",
+      "country": "Argentina",
+      "value": 25600
+    },
+    {
+      "period": "2025-ytd",
+      "code": "90230000",
+      "country": "Argentina",
+      "value": 24215
+    },
+    {
+      "period": "2026-ytd",
+      "code": "90230000",
+      "country": "Argentina",
+      "value": 121442
+    },
+    {
+      "period": "2025-ytd",
+      "code": "38229000",
+      "country": "Argentina",
+      "value": 0
+    },
+    {
+      "period": "2026-ytd",
+      "code": "38229000",
+      "country": "Argentina",
+      "value": 5941
+    },
+    {
+      "period": "2025-ytd",
+      "code": "38221900",
+      "country": "Argentina",
+      "value": 3439661
+    },
+    {
+      "period": "2026-ytd",
+      "code": "38221900",
+      "country": "Argentina",
+      "value": 2124846
+    },
+    {
+      "period": "2025-ytd",
+      "code": "90189060",
+      "country": "Argentina",
+      "value": 0
+    },
+    {
+      "period": "2026-ytd",
+      "code": "90189060",
+      "country": "Argentina",
+      "value": 75060
+    },
+    {
+      "period": "2025-ytd",
+      "code": "90230000",
+      "country": "Armenia",
+      "value": 0
+    },
+    {
+      "period": "2026-ytd",
+      "code": "90230000",
+      "country": "Armenia",
+      "value": 414706
+    },
+    {
+      "period": "2025-ytd",
+      "code": "90273080",
+      "country": "Armenia",
+      "value": 0
+    },
+    {
+      "period": "2026-ytd",
+      "code": "90273080",
+      "country": "Armenia",
+      "value": 0
+    },
+    {
+      "period": "2025-ytd",
+      "code": "38221900",
+      "country": "Armenia",
+      "value": 4454
+    },
+    {
+      "period": "2026-ytd",
+      "code": "38221900",
+      "country": "Armenia",
+      "value": 0
+    },
+    {
+      "period": "2025-ytd",
+      "code": "90230000",
+      "country": "Aruba",
+      "value": 2500
+    },
+    {
+      "period": "2026-ytd",
+      "code": "90230000",
+      "country": "Aruba",
+      "value": 0
+    },
+    {
+      "period": "2025-ytd",
+      "code": "90189060",
+      "country": "Australia",
+      "value": 163279
+    },
+    {
+      "period": "2026-ytd",
+      "code": "90189060",
+      "country": "Australia",
+      "value": 190670
+    },
+    {
+      "period": "2025-ytd",
+      "code": "38229000",
+      "country": "Australia",
+      "value": 3967621
+    },
+    {
+      "period": "2026-ytd",
+      "code": "38229000",
+      "country": "Australia",
+      "value": 6124560
+    },
+    {
+      "period": "2025-ytd",
+      "code": "38221900",
+      "country": "Australia",
+      "value": 17057651
+    },
+    {
+      "period": "2026-ytd",
+      "code": "38221900",
+      "country": "Australia",
+      "value": 13062313
+    },
+    {
+      "period": "2025-ytd",
+      "code": "90230000",
+      "country": "Australia",
+      "value": 4497833
+    },
+    {
+      "period": "2026-ytd",
+      "code": "90230000",
+      "country": "Australia",
+      "value": 4242449
+    },
+    {
+      "period": "2025-ytd",
+      "code": "90273080",
+      "country": "Australia",
+      "value": 862625
+    },
+    {
+      "period": "2026-ytd",
+      "code": "90273080",
+      "country": "Australia",
+      "value": 294617
+    },
+    {
+      "period": "2025-ytd",
+      "code": "38221900",
+      "country": "Austria",
+      "value": 30609567
+    },
+    {
+      "period": "2026-ytd",
+      "code": "38221900",
+      "country": "Austria",
+      "value": 30345919
+    },
+    {
+      "period": "2025-ytd",
+      "code": "90230000",
+      "country": "Austria",
+      "value": 2393175
+    },
+    {
+      "period": "2026-ytd",
+      "code": "90230000",
+      "country": "Austria",
+      "value": 3840155
+    },
+    {
+      "period": "2025-ytd",
+      "code": "38229000",
+      "country": "Austria",
+      "value": 4150501
+    },
+    {
+      "period": "2026-ytd",
+      "code": "38229000",
+      "country": "Austria",
+      "value": 4065952
+    },
+    {
+      "period": "2025-ytd",
+      "code": "90273080",
+      "country": "Austria",
+      "value": 6240201
+    },
+    {
+      "period": "2026-ytd",
+      "code": "90273080",
+      "country": "Austria",
+      "value": 2146156
+    },
+    {
+      "period": "2025-ytd",
+      "code": "90189060",
+      "country": "Austria",
+      "value": 4702290
+    },
+    {
+      "period": "2026-ytd",
+      "code": "90189060",
+      "country": "Austria",
+      "value": 3680461
+    },
+    {
+      "period": "2025-ytd",
+      "code": "90230000",
+      "country": "Azerbaijan",
+      "value": 0
+    },
+    {
+      "period": "2026-ytd",
+      "code": "90230000",
+      "country": "Azerbaijan",
+      "value": 14922
+    },
+    {
+      "period": "2025-ytd",
+      "code": "90230000",
+      "country": "Bahrain",
+      "value": 12902
+    },
+    {
+      "period": "2026-ytd",
+      "code": "90230000",
+      "country": "Bahrain",
+      "value": 0
+    },
+    {
+      "period": "2025-ytd",
+      "code": "90230000",
+      "country": "Bangladesh",
+      "value": 4731191
+    },
+    {
+      "period": "2026-ytd",
+      "code": "90230000",
+      "country": "Bangladesh",
+      "value": 5078251
+    },
+    {
+      "period": "2025-ytd",
+      "code": "90230000",
+      "country": "Barbados",
+      "value": 2500
+    },
+    {
+      "period": "2026-ytd",
+      "code": "90230000",
+      "country": "Barbados",
+      "value": 0
+    },
+    {
+      "period": "2025-ytd",
+      "code": "90230000",
+      "country": "Belarus",
+      "value": 0
+    },
+    {
+      "period": "2026-ytd",
+      "code": "90230000",
+      "country": "Belarus",
+      "value": 9450
+    },
+    {
+      "period": "2025-ytd",
+      "code": "90273080",
+      "country": "Belgium",
+      "value": 220237
+    },
+    {
+      "period": "2026-ytd",
+      "code": "90273080",
+      "country": "Belgium",
+      "value": 265784
+    },
+    {
+      "period": "2025-ytd",
+      "code": "90189060",
+      "country": "Belgium",
+      "value": 775950
+    },
+    {
+      "period": "2026-ytd",
+      "code": "90189060",
+      "country": "Belgium",
+      "value": 658416
+    },
+    {
+      "period": "2025-ytd",
+      "code": "90230000",
+      "country": "Belgium",
+      "value": 3315836
+    },
+    {
+      "period": "2026-ytd",
+      "code": "90230000",
+      "country": "Belgium",
+      "value": 1458272
+    },
+    {
+      "period": "2025-ytd",
+      "code": "38221900",
+      "country": "Belgium",
+      "value": 26599629
+    },
+    {
+      "period": "2026-ytd",
+      "code": "38221900",
+      "country": "Belgium",
+      "value": 37810489
+    },
+    {
+      "period": "2025-ytd",
+      "code": "38229000",
+      "country": "Belgium",
+      "value": 1272425
+    },
+    {
+      "period": "2026-ytd",
+      "code": "38229000",
+      "country": "Belgium",
+      "value": 1489603
+    },
+    {
+      "period": "2025-ytd",
+      "code": "38221900",
+      "country": "Bermuda",
+      "value": 10000
+    },
+    {
+      "period": "2026-ytd",
+      "code": "38221900",
+      "country": "Bermuda",
+      "value": 0
+    },
+    {
+      "period": "2025-ytd",
+      "code": "38221900",
+      "country": "Bolivia",
+      "value": 10875
+    },
+    {
+      "period": "2026-ytd",
+      "code": "38221900",
+      "country": "Bolivia",
+      "value": 0
+    },
+    {
+      "period": "2025-ytd",
+      "code": "38229000",
+      "country": "Bosnia and Herzegovina",
+      "value": 0
+    },
+    {
+      "period": "2026-ytd",
+      "code": "38229000",
+      "country": "Bosnia and Herzegovina",
+      "value": 4749
+    },
+    {
+      "period": "2025-ytd",
+      "code": "38221900",
+      "country": "Brazil",
+      "value": 3041920
+    },
+    {
+      "period": "2026-ytd",
+      "code": "38221900",
+      "country": "Brazil",
+      "value": 534855
+    },
+    {
+      "period": "2025-ytd",
+      "code": "90189060",
+      "country": "Brazil",
+      "value": 20802
+    },
+    {
+      "period": "2026-ytd",
+      "code": "90189060",
+      "country": "Brazil",
+      "value": 44682
+    },
+    {
+      "period": "2025-ytd",
+      "code": "90230000",
+      "country": "Brazil",
+      "value": 2241491
+    },
+    {
+      "period": "2026-ytd",
+      "code": "90230000",
+      "country": "Brazil",
+      "value": 3884367
+    },
+    {
+      "period": "2025-ytd",
+      "code": "38229000",
+      "country": "Brazil",
+      "value": 78950
+    },
+    {
+      "period": "2026-ytd",
+      "code": "38229000",
+      "country": "Brazil",
+      "value": 92249
+    },
+    {
+      "period": "2025-ytd",
+      "code": "90273080",
+      "country": "Brazil",
+      "value": 35934
+    },
+    {
+      "period": "2026-ytd",
+      "code": "90273080",
+      "country": "Brazil",
+      "value": 0
+    },
+    {
+      "period": "2025-ytd",
+      "code": "90273080",
+      "country": "Bulgaria",
+      "value": 1051380
+    },
+    {
+      "period": "2026-ytd",
+      "code": "90273080",
+      "country": "Bulgaria",
+      "value": 3331262
+    },
+    {
+      "period": "2025-ytd",
+      "code": "38229000",
+      "country": "Bulgaria",
+      "value": 92945
+    },
+    {
+      "period": "2026-ytd",
+      "code": "38229000",
+      "country": "Bulgaria",
+      "value": 63549
+    },
+    {
+      "period": "2025-ytd",
+      "code": "90189060",
+      "country": "Bulgaria",
+      "value": 16579166
+    },
+    {
+      "period": "2026-ytd",
+      "code": "90189060",
+      "country": "Bulgaria",
+      "value": 18623987
+    },
+    {
+      "period": "2025-ytd",
+      "code": "90230000",
+      "country": "Bulgaria",
+      "value": 490316
+    },
+    {
+      "period": "2026-ytd",
+      "code": "90230000",
+      "country": "Bulgaria",
+      "value": 32574
+    },
+    {
+      "period": "2025-ytd",
+      "code": "38221900",
+      "country": "Bulgaria",
+      "value": 72096
+    },
+    {
+      "period": "2026-ytd",
+      "code": "38221900",
+      "country": "Bulgaria",
+      "value": 126213
+    },
+    {
+      "period": "2025-ytd",
+      "code": "90230000",
+      "country": "Cambodia",
+      "value": 543156
+    },
+    {
+      "period": "2026-ytd",
+      "code": "90230000",
+      "country": "Cambodia",
+      "value": 245287
+    },
+    {
+      "period": "2025-ytd",
+      "code": "90189060",
+      "country": "Cambodia",
+      "value": 0
+    },
+    {
+      "period": "2026-ytd",
+      "code": "90189060",
+      "country": "Cambodia",
+      "value": 0
+    },
+    {
+      "period": "2025-ytd",
+      "code": "38221900",
+      "country": "Cameroon",
+      "value": 0
+    },
+    {
+      "period": "2026-ytd",
+      "code": "38221900",
+      "country": "Cameroon",
+      "value": 0
+    },
+    {
+      "period": "2025-ytd",
+      "code": "38229000",
+      "country": "Canada",
+      "value": 15189485
+    },
+    {
+      "period": "2026-ytd",
+      "code": "38229000",
+      "country": "Canada",
+      "value": 14295930
+    },
+    {
+      "period": "2025-ytd",
+      "code": "38221900",
+      "country": "Canada",
+      "value": 338148738
+    },
+    {
+      "period": "2026-ytd",
+      "code": "38221900",
+      "country": "Canada",
+      "value": 331979418
+    },
+    {
+      "period": "2025-ytd",
+      "code": "90230000",
+      "country": "Canada",
+      "value": 76159837
+    },
+    {
+      "period": "2026-ytd",
+      "code": "90230000",
+      "country": "Canada",
+      "value": 60606453
+    },
+    {
+      "period": "2025-ytd",
+      "code": "90273080",
+      "country": "Canada",
+      "value": 2650526
+    },
+    {
+      "period": "2026-ytd",
+      "code": "90273080",
+      "country": "Canada",
+      "value": 2928950
+    },
+    {
+      "period": "2025-ytd",
+      "code": "90189060",
+      "country": "Canada",
+      "value": 412978372
+    },
+    {
+      "period": "2026-ytd",
+      "code": "90189060",
+      "country": "Canada",
+      "value": 102412785
+    },
+    {
+      "period": "2025-ytd",
+      "code": "90230000",
+      "country": "Cayman Islands",
+      "value": 0
+    },
+    {
+      "period": "2026-ytd",
+      "code": "90230000",
+      "country": "Cayman Islands",
+      "value": 23608
+    },
+    {
+      "period": "2025-ytd",
+      "code": "90273080",
+      "country": "Cayman Islands",
+      "value": 7500
+    },
+    {
+      "period": "2026-ytd",
+      "code": "90273080",
+      "country": "Cayman Islands",
+      "value": 5000
+    },
+    {
+      "period": "2025-ytd",
+      "code": "90273080",
+      "country": "Chile",
+      "value": 4637
+    },
+    {
+      "period": "2026-ytd",
+      "code": "90273080",
+      "country": "Chile",
+      "value": 37702
+    },
+    {
+      "period": "2025-ytd",
+      "code": "90230000",
+      "country": "Chile",
+      "value": 57562
+    },
+    {
+      "period": "2026-ytd",
+      "code": "90230000",
+      "country": "Chile",
+      "value": 450682
+    },
+    {
+      "period": "2025-ytd",
+      "code": "38221900",
+      "country": "Chile",
+      "value": 1993152
+    },
+    {
+      "period": "2026-ytd",
+      "code": "38221900",
+      "country": "Chile",
+      "value": 1751078
+    },
+    {
+      "period": "2025-ytd",
+      "code": "90189060",
+      "country": "Chile",
+      "value": 2604
+    },
+    {
+      "period": "2026-ytd",
+      "code": "90189060",
+      "country": "Chile",
+      "value": 3338
+    },
+    {
+      "period": "2025-ytd",
+      "code": "90230000",
+      "country": "China",
+      "value": 79302659
+    },
+    {
+      "period": "2026-ytd",
+      "code": "90230000",
+      "country": "China",
+      "value": 101140301
+    },
+    {
+      "period": "2025-ytd",
+      "code": "38221900",
+      "country": "China",
+      "value": 210771496
+    },
+    {
+      "period": "2026-ytd",
+      "code": "38221900",
+      "country": "China",
+      "value": 147888646
+    },
+    {
+      "period": "2025-ytd",
+      "code": "90273080",
+      "country": "China",
+      "value": 631438
+    },
+    {
+      "period": "2026-ytd",
+      "code": "90273080",
+      "country": "China",
+      "value": 801013
+    },
+    {
+      "period": "2025-ytd",
+      "code": "90189060",
+      "country": "China",
+      "value": 87892190
+    },
+    {
+      "period": "2026-ytd",
+      "code": "90189060",
+      "country": "China",
+      "value": 95447252
+    },
+    {
+      "period": "2025-ytd",
+      "code": "38229000",
+      "country": "China",
+      "value": 2743114
+    },
+    {
+      "period": "2026-ytd",
+      "code": "38229000",
+      "country": "China",
+      "value": 3677022
+    },
+    {
+      "period": "2025-ytd",
+      "code": "38221900",
+      "country": "Colombia",
+      "value": 4500
+    },
+    {
+      "period": "2026-ytd",
+      "code": "38221900",
+      "country": "Colombia",
+      "value": 0
+    },
+    {
+      "period": "2025-ytd",
+      "code": "90230000",
+      "country": "Colombia",
+      "value": 126172
+    },
+    {
+      "period": "2026-ytd",
+      "code": "90230000",
+      "country": "Colombia",
+      "value": 193471
+    },
+    {
+      "period": "2025-ytd",
+      "code": "90189060",
+      "country": "Colombia",
+      "value": 0
+    },
+    {
+      "period": "2026-ytd",
+      "code": "90189060",
+      "country": "Colombia",
+      "value": 14683
+    },
+    {
+      "period": "2025-ytd",
+      "code": "90273080",
+      "country": "Costa Rica",
+      "value": 4432
+    },
+    {
+      "period": "2026-ytd",
+      "code": "90273080",
+      "country": "Costa Rica",
+      "value": 28933
+    },
+    {
+      "period": "2025-ytd",
+      "code": "38221900",
+      "country": "Costa Rica",
+      "value": 102029
+    },
+    {
+      "period": "2026-ytd",
+      "code": "38221900",
+      "country": "Costa Rica",
+      "value": 1286753
+    },
+    {
+      "period": "2025-ytd",
+      "code": "90189060",
+      "country": "Costa Rica",
+      "value": 488954901
+    },
+    {
+      "period": "2026-ytd",
+      "code": "90189060",
+      "country": "Costa Rica",
+      "value": 465070128
+    },
+    {
+      "period": "2025-ytd",
+      "code": "90230000",
+      "country": "Costa Rica",
+      "value": 1928252
+    },
+    {
+      "period": "2026-ytd",
+      "code": "90230000",
+      "country": "Costa Rica",
+      "value": 2167510
+    },
+    {
+      "period": "2025-ytd",
+      "code": "38229000",
+      "country": "Croatia",
+      "value": 5000
+    },
+    {
+      "period": "2026-ytd",
+      "code": "38229000",
+      "country": "Croatia",
+      "value": 0
+    },
+    {
+      "period": "2025-ytd",
+      "code": "38221900",
+      "country": "Croatia",
+      "value": 0
+    },
+    {
+      "period": "2026-ytd",
+      "code": "38221900",
+      "country": "Croatia",
+      "value": 475200
+    },
+    {
+      "period": "2025-ytd",
+      "code": "90230000",
+      "country": "Croatia",
+      "value": 969134
+    },
+    {
+      "period": "2026-ytd",
+      "code": "90230000",
+      "country": "Croatia",
+      "value": 864540
+    },
+    {
+      "period": "2025-ytd",
+      "code": "90273080",
+      "country": "Cyprus",
+      "value": 40500
+    },
+    {
+      "period": "2026-ytd",
+      "code": "90273080",
+      "country": "Cyprus",
+      "value": 2700
+    },
+    {
+      "period": "2025-ytd",
+      "code": "90230000",
+      "country": "Cyprus",
+      "value": 0
+    },
+    {
+      "period": "2026-ytd",
+      "code": "90230000",
+      "country": "Cyprus",
+      "value": 8676
+    },
+    {
+      "period": "2025-ytd",
+      "code": "38221900",
+      "country": "Czechia (Czech Republic)",
+      "value": 1205947
+    },
+    {
+      "period": "2026-ytd",
+      "code": "38221900",
+      "country": "Czechia (Czech Republic)",
+      "value": 666653
+    },
+    {
+      "period": "2025-ytd",
+      "code": "90230000",
+      "country": "Czechia (Czech Republic)",
+      "value": 6883680
+    },
+    {
+      "period": "2026-ytd",
+      "code": "90230000",
+      "country": "Czechia (Czech Republic)",
+      "value": 10728598
+    },
+    {
+      "period": "2025-ytd",
+      "code": "90273080",
+      "country": "Czechia (Czech Republic)",
+      "value": 214448
+    },
+    {
+      "period": "2026-ytd",
+      "code": "90273080",
+      "country": "Czechia (Czech Republic)",
+      "value": 85768
+    },
+    {
+      "period": "2025-ytd",
+      "code": "90189060",
+      "country": "Czechia (Czech Republic)",
+      "value": 85091300
+    },
+    {
+      "period": "2026-ytd",
+      "code": "90189060",
+      "country": "Czechia (Czech Republic)",
+      "value": 64493361
+    },
+    {
+      "period": "2025-ytd",
+      "code": "38229000",
+      "country": "Czechia (Czech Republic)",
+      "value": 203227
+    },
+    {
+      "period": "2026-ytd",
+      "code": "38229000",
+      "country": "Czechia (Czech Republic)",
+      "value": 255121
+    },
+    {
+      "period": "2025-ytd",
+      "code": "90273080",
+      "country": "Denmark",
+      "value": 2148064
+    },
+    {
+      "period": "2026-ytd",
+      "code": "90273080",
+      "country": "Denmark",
+      "value": 677849
+    },
+    {
+      "period": "2025-ytd",
+      "code": "90189060",
+      "country": "Denmark",
+      "value": 5665376
+    },
+    {
+      "period": "2026-ytd",
+      "code": "90189060",
+      "country": "Denmark",
+      "value": 3918225
+    },
+    {
+      "period": "2025-ytd",
+      "code": "38229000",
+      "country": "Denmark",
+      "value": 1808397
+    },
+    {
+      "period": "2026-ytd",
+      "code": "38229000",
+      "country": "Denmark",
+      "value": 986552
+    },
+    {
+      "period": "2025-ytd",
+      "code": "38221900",
+      "country": "Denmark",
+      "value": 28419980
+    },
+    {
+      "period": "2026-ytd",
+      "code": "38221900",
+      "country": "Denmark",
+      "value": 34742860
+    },
+    {
+      "period": "2025-ytd",
+      "code": "90230000",
+      "country": "Denmark",
+      "value": 4987805
+    },
+    {
+      "period": "2026-ytd",
+      "code": "90230000",
+      "country": "Denmark",
+      "value": 2104744
+    },
+    {
+      "period": "2025-ytd",
+      "code": "90230000",
+      "country": "Dominican Republic",
+      "value": 53258
+    },
+    {
+      "period": "2026-ytd",
+      "code": "90230000",
+      "country": "Dominican Republic",
+      "value": 159415
+    },
+    {
+      "period": "2025-ytd",
+      "code": "38229000",
+      "country": "Dominican Republic",
+      "value": 0
+    },
+    {
+      "period": "2026-ytd",
+      "code": "38229000",
+      "country": "Dominican Republic",
+      "value": 464233
+    },
+    {
+      "period": "2025-ytd",
+      "code": "90189060",
+      "country": "Dominican Republic",
+      "value": 158176075
+    },
+    {
+      "period": "2026-ytd",
+      "code": "90189060",
+      "country": "Dominican Republic",
+      "value": 161283847
+    },
+    {
+      "period": "2025-ytd",
+      "code": "38221900",
+      "country": "Dominican Republic",
+      "value": 8899
+    },
+    {
+      "period": "2026-ytd",
+      "code": "38221900",
+      "country": "Dominican Republic",
+      "value": 29955
+    },
+    {
+      "period": "2025-ytd",
+      "code": "38221900",
+      "country": "Ecuador",
+      "value": 10497
+    },
+    {
+      "period": "2026-ytd",
+      "code": "38221900",
+      "country": "Ecuador",
+      "value": 0
+    },
+    {
+      "period": "2025-ytd",
+      "code": "38229000",
+      "country": "Ecuador",
+      "value": 19100
+    },
+    {
+      "period": "2026-ytd",
+      "code": "38229000",
+      "country": "Ecuador",
+      "value": 0
+    },
+    {
+      "period": "2025-ytd",
+      "code": "90230000",
+      "country": "Ecuador",
+      "value": 49754
+    },
+    {
+      "period": "2026-ytd",
+      "code": "90230000",
+      "country": "Ecuador",
+      "value": 33137
+    },
+    {
+      "period": "2025-ytd",
+      "code": "90273080",
+      "country": "Ecuador",
+      "value": 0
+    },
+    {
+      "period": "2026-ytd",
+      "code": "90273080",
+      "country": "Ecuador",
+      "value": 0
+    },
+    {
+      "period": "2025-ytd",
+      "code": "90273080",
+      "country": "Egypt",
+      "value": 0
+    },
+    {
+      "period": "2026-ytd",
+      "code": "90273080",
+      "country": "Egypt",
+      "value": 0
+    },
+    {
+      "period": "2025-ytd",
+      "code": "90230000",
+      "country": "Egypt",
+      "value": 0
+    },
+    {
+      "period": "2026-ytd",
+      "code": "90230000",
+      "country": "Egypt",
+      "value": 43800
+    },
+    {
+      "period": "2025-ytd",
+      "code": "90230000",
+      "country": "El Salvador",
+      "value": 0
+    },
+    {
+      "period": "2026-ytd",
+      "code": "90230000",
+      "country": "El Salvador",
+      "value": 3250
+    },
+    {
+      "period": "2025-ytd",
+      "code": "90273080",
+      "country": "Estonia",
+      "value": 147603
+    },
+    {
+      "period": "2026-ytd",
+      "code": "90273080",
+      "country": "Estonia",
+      "value": 2150
+    },
+    {
+      "period": "2025-ytd",
+      "code": "90189060",
+      "country": "Estonia",
+      "value": 161050
+    },
+    {
+      "period": "2026-ytd",
+      "code": "90189060",
+      "country": "Estonia",
+      "value": 0
+    },
+    {
+      "period": "2025-ytd",
+      "code": "38221900",
+      "country": "Estonia",
+      "value": 201267
+    },
+    {
+      "period": "2026-ytd",
+      "code": "38221900",
+      "country": "Estonia",
+      "value": 214945
+    },
+    {
+      "period": "2025-ytd",
+      "code": "90230000",
+      "country": "Estonia",
+      "value": 261174
+    },
+    {
+      "period": "2026-ytd",
+      "code": "90230000",
+      "country": "Estonia",
+      "value": 255498
+    },
+    {
+      "period": "2025-ytd",
+      "code": "38229000",
+      "country": "Estonia",
+      "value": 170246
+    },
+    {
+      "period": "2026-ytd",
+      "code": "38229000",
+      "country": "Estonia",
+      "value": 90858
+    },
+    {
+      "period": "2025-ytd",
+      "code": "38221900",
+      "country": "Eswatini (Swaziland)",
+      "value": 2114
+    },
+    {
+      "period": "2026-ytd",
+      "code": "38221900",
+      "country": "Eswatini (Swaziland)",
+      "value": 0
+    },
+    {
+      "period": "2025-ytd",
+      "code": "38221900",
+      "country": "Faroe Islands",
+      "value": 0
+    },
+    {
+      "period": "2026-ytd",
+      "code": "38221900",
+      "country": "Faroe Islands",
+      "value": 92375
+    },
+    {
+      "period": "2025-ytd",
+      "code": "90273080",
+      "country": "Finland",
+      "value": 2256888
+    },
+    {
+      "period": "2026-ytd",
+      "code": "90273080",
+      "country": "Finland",
+      "value": 1394417
+    },
+    {
+      "period": "2025-ytd",
+      "code": "38229000",
+      "country": "Finland",
+      "value": 9285
+    },
+    {
+      "period": "2026-ytd",
+      "code": "38229000",
+      "country": "Finland",
+      "value": 36284
+    },
+    {
+      "period": "2025-ytd",
+      "code": "90230000",
+      "country": "Finland",
+      "value": 2017583
+    },
+    {
+      "period": "2026-ytd",
+      "code": "90230000",
+      "country": "Finland",
+      "value": 1907532
+    },
+    {
+      "period": "2025-ytd",
+      "code": "38221900",
+      "country": "Finland",
+      "value": 62114717
+    },
+    {
+      "period": "2026-ytd",
+      "code": "38221900",
+      "country": "Finland",
+      "value": 43030434
+    },
+    {
+      "period": "2025-ytd",
+      "code": "90230000",
+      "country": "France",
+      "value": 6943069
+    },
+    {
+      "period": "2026-ytd",
+      "code": "90230000",
+      "country": "France",
+      "value": 4685980
+    },
+    {
+      "period": "2025-ytd",
+      "code": "38229000",
+      "country": "France",
+      "value": 1221956
+    },
+    {
+      "period": "2026-ytd",
+      "code": "38229000",
+      "country": "France",
+      "value": 1098788
+    },
+    {
+      "period": "2025-ytd",
+      "code": "90273080",
+      "country": "France",
+      "value": 2006820
+    },
+    {
+      "period": "2026-ytd",
+      "code": "90273080",
+      "country": "France",
+      "value": 2212767
+    },
+    {
+      "period": "2025-ytd",
+      "code": "38221900",
+      "country": "France",
+      "value": 225820158
+    },
+    {
+      "period": "2026-ytd",
+      "code": "38221900",
+      "country": "France",
+      "value": 197306782
+    },
+    {
+      "period": "2025-ytd",
+      "code": "90189060",
+      "country": "France",
+      "value": 7229205
+    },
+    {
+      "period": "2026-ytd",
+      "code": "90189060",
+      "country": "France",
+      "value": 6311075
+    },
+    {
+      "period": "2025-ytd",
+      "code": "38229000",
+      "country": "Gambia",
+      "value": 0
+    },
+    {
+      "period": "2026-ytd",
+      "code": "38229000",
+      "country": "Gambia",
+      "value": 0
+    },
+    {
+      "period": "2025-ytd",
+      "code": "38221900",
+      "country": "Georgia",
+      "value": 15800
+    },
+    {
+      "period": "2026-ytd",
+      "code": "38221900",
+      "country": "Georgia",
+      "value": 3650
+    },
+    {
+      "period": "2025-ytd",
+      "code": "38229000",
+      "country": "Georgia",
+      "value": 28000
+    },
+    {
+      "period": "2026-ytd",
+      "code": "38229000",
+      "country": "Georgia",
+      "value": 0
+    },
+    {
+      "period": "2025-ytd",
+      "code": "90189060",
+      "country": "Germany",
+      "value": 260294671
+    },
+    {
+      "period": "2026-ytd",
+      "code": "90189060",
+      "country": "Germany",
+      "value": 258837732
+    },
+    {
+      "period": "2025-ytd",
+      "code": "90230000",
+      "country": "Germany",
+      "value": 50674241
+    },
+    {
+      "period": "2026-ytd",
+      "code": "90230000",
+      "country": "Germany",
+      "value": 36830535
+    },
+    {
+      "period": "2025-ytd",
+      "code": "38221900",
+      "country": "Germany",
+      "value": 683608082
+    },
+    {
+      "period": "2026-ytd",
+      "code": "38221900",
+      "country": "Germany",
+      "value": 526444631
+    },
+    {
+      "period": "2025-ytd",
+      "code": "38229000",
+      "country": "Germany",
+      "value": 9156654
+    },
+    {
+      "period": "2026-ytd",
+      "code": "38229000",
+      "country": "Germany",
+      "value": 8482816
+    },
+    {
+      "period": "2025-ytd",
+      "code": "90273080",
+      "country": "Germany",
+      "value": 17257188
+    },
+    {
+      "period": "2026-ytd",
+      "code": "90273080",
+      "country": "Germany",
+      "value": 15055475
+    },
+    {
+      "period": "2025-ytd",
+      "code": "90230000",
+      "country": "Greece",
+      "value": 25015
+    },
+    {
+      "period": "2026-ytd",
+      "code": "90230000",
+      "country": "Greece",
+      "value": 38801
+    },
+    {
+      "period": "2025-ytd",
+      "code": "38229000",
+      "country": "Greece",
+      "value": 44000
+    },
+    {
+      "period": "2026-ytd",
+      "code": "38229000",
+      "country": "Greece",
+      "value": 38629
+    },
+    {
+      "period": "2025-ytd",
+      "code": "38221900",
+      "country": "Greece",
+      "value": 77457
+    },
+    {
+      "period": "2026-ytd",
+      "code": "38221900",
+      "country": "Greece",
+      "value": 201137
+    },
+    {
+      "period": "2025-ytd",
+      "code": "90189060",
+      "country": "Greece",
+      "value": 0
+    },
+    {
+      "period": "2026-ytd",
+      "code": "90189060",
+      "country": "Greece",
+      "value": 39304
+    },
+    {
+      "period": "2025-ytd",
+      "code": "90230000",
+      "country": "Grenada",
+      "value": 0
+    },
+    {
+      "period": "2026-ytd",
+      "code": "90230000",
+      "country": "Grenada",
+      "value": 5000
+    },
+    {
+      "period": "2025-ytd",
+      "code": "90189060",
+      "country": "Guatemala",
+      "value": 25767
+    },
+    {
+      "period": "2026-ytd",
+      "code": "90189060",
+      "country": "Guatemala",
+      "value": 0
+    },
+    {
+      "period": "2025-ytd",
+      "code": "38221900",
+      "country": "Guinea",
+      "value": 2438
+    },
+    {
+      "period": "2026-ytd",
+      "code": "38221900",
+      "country": "Guinea",
+      "value": 8742
+    },
+    {
+      "period": "2025-ytd",
+      "code": "90189060",
+      "country": "Honduras",
+      "value": 0
+    },
+    {
+      "period": "2026-ytd",
+      "code": "90189060",
+      "country": "Honduras",
+      "value": 32880
+    },
+    {
+      "period": "2025-ytd",
+      "code": "90230000",
+      "country": "Hong Kong",
+      "value": 83065
+    },
+    {
+      "period": "2026-ytd",
+      "code": "90230000",
+      "country": "Hong Kong",
+      "value": 183482
+    },
+    {
+      "period": "2025-ytd",
+      "code": "38221900",
+      "country": "Hong Kong",
+      "value": 433797
+    },
+    {
+      "period": "2026-ytd",
+      "code": "38221900",
+      "country": "Hong Kong",
+      "value": 101114
+    },
+    {
+      "period": "2025-ytd",
+      "code": "38229000",
+      "country": "Hong Kong",
+      "value": 109001
+    },
+    {
+      "period": "2026-ytd",
+      "code": "38229000",
+      "country": "Hong Kong",
+      "value": 12848
+    },
+    {
+      "period": "2025-ytd",
+      "code": "90189060",
+      "country": "Hong Kong",
+      "value": 9199
+    },
+    {
+      "period": "2026-ytd",
+      "code": "90189060",
+      "country": "Hong Kong",
+      "value": 114425
+    },
+    {
+      "period": "2025-ytd",
+      "code": "38221900",
+      "country": "Hungary",
+      "value": 71600904
+    },
+    {
+      "period": "2026-ytd",
+      "code": "38221900",
+      "country": "Hungary",
+      "value": 27739817
+    },
+    {
+      "period": "2025-ytd",
+      "code": "90273080",
+      "country": "Hungary",
+      "value": 215353
+    },
+    {
+      "period": "2026-ytd",
+      "code": "90273080",
+      "country": "Hungary",
+      "value": 138466
+    },
+    {
+      "period": "2025-ytd",
+      "code": "90189060",
+      "country": "Hungary",
+      "value": 4412105
+    },
+    {
+      "period": "2026-ytd",
+      "code": "90189060",
+      "country": "Hungary",
+      "value": 118793
+    },
+    {
+      "period": "2025-ytd",
+      "code": "90230000",
+      "country": "Hungary",
+      "value": 3573374
+    },
+    {
+      "period": "2026-ytd",
+      "code": "90230000",
+      "country": "Hungary",
+      "value": 2986784
+    },
+    {
+      "period": "2025-ytd",
+      "code": "38229000",
+      "country": "Hungary",
+      "value": 1446726
+    },
+    {
+      "period": "2026-ytd",
+      "code": "38229000",
+      "country": "Hungary",
+      "value": 1734528
+    },
+    {
+      "period": "2025-ytd",
+      "code": "90189060",
+      "country": "Iceland",
+      "value": 4659
+    },
+    {
+      "period": "2026-ytd",
+      "code": "90189060",
+      "country": "Iceland",
+      "value": 23241
+    },
+    {
+      "period": "2025-ytd",
+      "code": "38221900",
+      "country": "Iceland",
+      "value": 32504
+    },
+    {
+      "period": "2026-ytd",
+      "code": "38221900",
+      "country": "Iceland",
+      "value": 33030
+    },
+    {
+      "period": "2025-ytd",
+      "code": "90230000",
+      "country": "Iceland",
+      "value": 0
+    },
+    {
+      "period": "2026-ytd",
+      "code": "90230000",
+      "country": "Iceland",
+      "value": 9500
+    },
+    {
+      "period": "2025-ytd",
+      "code": "38229000",
+      "country": "Iceland",
+      "value": 0
+    },
+    {
+      "period": "2026-ytd",
+      "code": "38229000",
+      "country": "Iceland",
+      "value": 0
+    },
+    {
+      "period": "2025-ytd",
+      "code": "90189060",
+      "country": "India",
+      "value": 17423885
+    },
+    {
+      "period": "2026-ytd",
+      "code": "90189060",
+      "country": "India",
+      "value": 12335021
+    },
+    {
+      "period": "2025-ytd",
+      "code": "38229000",
+      "country": "India",
+      "value": 4385109
+    },
+    {
+      "period": "2026-ytd",
+      "code": "38229000",
+      "country": "India",
+      "value": 4181926
+    },
+    {
+      "period": "2025-ytd",
+      "code": "90273080",
+      "country": "India",
+      "value": 710226
+    },
+    {
+      "period": "2026-ytd",
+      "code": "90273080",
+      "country": "India",
+      "value": 96864
+    },
+    {
+      "period": "2025-ytd",
+      "code": "38221900",
+      "country": "India",
+      "value": 15099493
+    },
+    {
+      "period": "2026-ytd",
+      "code": "38221900",
+      "country": "India",
+      "value": 8579392
+    },
+    {
+      "period": "2025-ytd",
+      "code": "90230000",
+      "country": "India",
+      "value": 4712294
+    },
+    {
+      "period": "2026-ytd",
+      "code": "90230000",
+      "country": "India",
+      "value": 4903054
+    },
+    {
+      "period": "2025-ytd",
+      "code": "90273080",
+      "country": "Indonesia",
+      "value": 56553
+    },
+    {
+      "period": "2026-ytd",
+      "code": "90273080",
+      "country": "Indonesia",
+      "value": 10130
+    },
+    {
+      "period": "2025-ytd",
+      "code": "90230000",
+      "country": "Indonesia",
+      "value": 182413
+    },
+    {
+      "period": "2026-ytd",
+      "code": "90230000",
+      "country": "Indonesia",
+      "value": 877192
+    },
+    {
+      "period": "2025-ytd",
+      "code": "38221900",
+      "country": "Indonesia",
+      "value": 1208237
+    },
+    {
+      "period": "2026-ytd",
+      "code": "38221900",
+      "country": "Indonesia",
+      "value": 564500
+    },
+    {
+      "period": "2025-ytd",
+      "code": "90189060",
+      "country": "Indonesia",
+      "value": 28875
+    },
+    {
+      "period": "2026-ytd",
+      "code": "90189060",
+      "country": "Indonesia",
+      "value": 44814
+    },
+    {
+      "period": "2025-ytd",
+      "code": "38221900",
+      "country": "Iraq",
+      "value": 0
+    },
+    {
+      "period": "2026-ytd",
+      "code": "38221900",
+      "country": "Iraq",
+      "value": 0
+    },
+    {
+      "period": "2025-ytd",
+      "code": "90273080",
+      "country": "Ireland",
+      "value": 11118
+    },
+    {
+      "period": "2026-ytd",
+      "code": "90273080",
+      "country": "Ireland",
+      "value": 28245
+    },
+    {
+      "period": "2025-ytd",
+      "code": "90230000",
+      "country": "Ireland",
+      "value": 1660081
+    },
+    {
+      "period": "2026-ytd",
+      "code": "90230000",
+      "country": "Ireland",
+      "value": 761118
+    },
+    {
+      "period": "2025-ytd",
+      "code": "38221900",
+      "country": "Ireland",
+      "value": 250630906
+    },
+    {
+      "period": "2026-ytd",
+      "code": "38221900",
+      "country": "Ireland",
+      "value": 128023627
+    },
+    {
+      "period": "2025-ytd",
+      "code": "90189060",
+      "country": "Ireland",
+      "value": 46456443
+    },
+    {
+      "period": "2026-ytd",
+      "code": "90189060",
+      "country": "Ireland",
+      "value": 42982780
+    },
+    {
+      "period": "2025-ytd",
+      "code": "38229000",
+      "country": "Ireland",
+      "value": 2021616
+    },
+    {
+      "period": "2026-ytd",
+      "code": "38229000",
+      "country": "Ireland",
+      "value": 449311
+    },
+    {
+      "period": "2025-ytd",
+      "code": "90230000",
+      "country": "Israel",
+      "value": 11060204
+    },
+    {
+      "period": "2026-ytd",
+      "code": "90230000",
+      "country": "Israel",
+      "value": 19131543
+    },
+    {
+      "period": "2025-ytd",
+      "code": "90189060",
+      "country": "Israel",
+      "value": 120445637
+    },
+    {
+      "period": "2026-ytd",
+      "code": "90189060",
+      "country": "Israel",
+      "value": 106025613
+    },
+    {
+      "period": "2025-ytd",
+      "code": "90273080",
+      "country": "Israel",
+      "value": 381196
+    },
+    {
+      "period": "2026-ytd",
+      "code": "90273080",
+      "country": "Israel",
+      "value": 101307
+    },
+    {
+      "period": "2025-ytd",
+      "code": "38221900",
+      "country": "Israel",
+      "value": 2911607
+    },
+    {
+      "period": "2026-ytd",
+      "code": "38221900",
+      "country": "Israel",
+      "value": 3707613
+    },
+    {
+      "period": "2025-ytd",
+      "code": "38229000",
+      "country": "Israel",
+      "value": 303596
+    },
+    {
+      "period": "2026-ytd",
+      "code": "38229000",
+      "country": "Israel",
+      "value": 177679
+    },
+    {
+      "period": "2025-ytd",
+      "code": "38221900",
+      "country": "Italy",
+      "value": 93538209
+    },
+    {
+      "period": "2026-ytd",
+      "code": "38221900",
+      "country": "Italy",
+      "value": 58435064
+    },
+    {
+      "period": "2025-ytd",
+      "code": "90230000",
+      "country": "Italy",
+      "value": 7308102
+    },
+    {
+      "period": "2026-ytd",
+      "code": "90230000",
+      "country": "Italy",
+      "value": 8144365
+    },
+    {
+      "period": "2025-ytd",
+      "code": "38229000",
+      "country": "Italy",
+      "value": 33280647
+    },
+    {
+      "period": "2026-ytd",
+      "code": "38229000",
+      "country": "Italy",
+      "value": 2359250
+    },
+    {
+      "period": "2025-ytd",
+      "code": "90189060",
+      "country": "Italy",
+      "value": 23015229
+    },
+    {
+      "period": "2026-ytd",
+      "code": "90189060",
+      "country": "Italy",
+      "value": 23100278
+    },
+    {
+      "period": "2025-ytd",
+      "code": "90273080",
+      "country": "Italy",
+      "value": 294062
+    },
+    {
+      "period": "2026-ytd",
+      "code": "90273080",
+      "country": "Italy",
+      "value": 240228
+    },
+    {
+      "period": "2025-ytd",
+      "code": "90273080",
+      "country": "Jamaica",
+      "value": 0
+    },
+    {
+      "period": "2026-ytd",
+      "code": "90273080",
+      "country": "Jamaica",
+      "value": 0
+    },
+    {
+      "period": "2025-ytd",
+      "code": "38229000",
+      "country": "Jamaica",
+      "value": 2500
+    },
+    {
+      "period": "2026-ytd",
+      "code": "38229000",
+      "country": "Jamaica",
+      "value": 0
+    },
+    {
+      "period": "2025-ytd",
+      "code": "90189060",
+      "country": "Japan",
+      "value": 49692457
+    },
+    {
+      "period": "2026-ytd",
+      "code": "90189060",
+      "country": "Japan",
+      "value": 34686831
+    },
+    {
+      "period": "2025-ytd",
+      "code": "90273080",
+      "country": "Japan",
+      "value": 571379
+    },
+    {
+      "period": "2026-ytd",
+      "code": "90273080",
+      "country": "Japan",
+      "value": 573013
+    },
+    {
+      "period": "2025-ytd",
+      "code": "38229000",
+      "country": "Japan",
+      "value": 2423476
+    },
+    {
+      "period": "2026-ytd",
+      "code": "38229000",
+      "country": "Japan",
+      "value": 2535500
+    },
+    {
+      "period": "2025-ytd",
+      "code": "38221900",
+      "country": "Japan",
+      "value": 167278275
+    },
+    {
+      "period": "2026-ytd",
+      "code": "38221900",
+      "country": "Japan",
+      "value": 142915608
+    },
+    {
+      "period": "2025-ytd",
+      "code": "90230000",
+      "country": "Japan",
+      "value": 20316013
+    },
+    {
+      "period": "2026-ytd",
+      "code": "90230000",
+      "country": "Japan",
+      "value": 18210975
+    },
+    {
+      "period": "2025-ytd",
+      "code": "38221900",
+      "country": "Jordan",
+      "value": 0
+    },
+    {
+      "period": "2026-ytd",
+      "code": "38221900",
+      "country": "Jordan",
+      "value": 114000
+    },
+    {
+      "period": "2025-ytd",
+      "code": "90230000",
+      "country": "Jordan",
+      "value": 0
+    },
+    {
+      "period": "2026-ytd",
+      "code": "90230000",
+      "country": "Jordan",
+      "value": 24968
+    },
+    {
+      "period": "2025-ytd",
+      "code": "90230000",
+      "country": "Kazakhstan",
+      "value": 0
+    },
+    {
+      "period": "2026-ytd",
+      "code": "90230000",
+      "country": "Kazakhstan",
+      "value": 0
+    },
+    {
+      "period": "2025-ytd",
+      "code": "38229000",
+      "country": "Kazakhstan",
+      "value": 8140
+    },
+    {
+      "period": "2026-ytd",
+      "code": "38229000",
+      "country": "Kazakhstan",
+      "value": 0
+    },
+    {
+      "period": "2025-ytd",
+      "code": "90189060",
+      "country": "Kazakhstan",
+      "value": 5814
+    },
+    {
+      "period": "2026-ytd",
+      "code": "90189060",
+      "country": "Kazakhstan",
+      "value": 0
+    },
+    {
+      "period": "2025-ytd",
+      "code": "38221900",
+      "country": "Kazakhstan",
+      "value": 431208
+    },
+    {
+      "period": "2026-ytd",
+      "code": "38221900",
+      "country": "Kazakhstan",
+      "value": 26169
+    },
+    {
+      "period": "2025-ytd",
+      "code": "90230000",
+      "country": "Kenya",
+      "value": 0
+    },
+    {
+      "period": "2026-ytd",
+      "code": "90230000",
+      "country": "Kenya",
+      "value": 3000
+    },
+    {
+      "period": "2025-ytd",
+      "code": "38221900",
+      "country": "Kyrgyzstan",
+      "value": 14958
+    },
+    {
+      "period": "2026-ytd",
+      "code": "38221900",
+      "country": "Kyrgyzstan",
+      "value": 0
+    },
+    {
+      "period": "2025-ytd",
+      "code": "38221900",
+      "country": "Latvia",
+      "value": 774709
+    },
+    {
+      "period": "2026-ytd",
+      "code": "38221900",
+      "country": "Latvia",
+      "value": 639540
+    },
+    {
+      "period": "2025-ytd",
+      "code": "90189060",
+      "country": "Latvia",
+      "value": 1251540
+    },
+    {
+      "period": "2026-ytd",
+      "code": "90189060",
+      "country": "Latvia",
+      "value": 565777
+    },
+    {
+      "period": "2025-ytd",
+      "code": "38229000",
+      "country": "Latvia",
+      "value": 26864
+    },
+    {
+      "period": "2026-ytd",
+      "code": "38229000",
+      "country": "Latvia",
+      "value": 63935
+    },
+    {
+      "period": "2025-ytd",
+      "code": "90230000",
+      "country": "Latvia",
+      "value": 13869
+    },
+    {
+      "period": "2026-ytd",
+      "code": "90230000",
+      "country": "Latvia",
+      "value": 217073
+    },
+    {
+      "period": "2025-ytd",
+      "code": "90230000",
+      "country": "Lebanon",
+      "value": 4000
+    },
+    {
+      "period": "2026-ytd",
+      "code": "90230000",
+      "country": "Lebanon",
+      "value": 0
+    },
+    {
+      "period": "2025-ytd",
+      "code": "90189060",
+      "country": "Liechtenstein",
+      "value": 0
+    },
+    {
+      "period": "2026-ytd",
+      "code": "90189060",
+      "country": "Liechtenstein",
+      "value": 5078
+    },
+    {
+      "period": "2025-ytd",
+      "code": "90230000",
+      "country": "Liechtenstein",
+      "value": 23697
+    },
+    {
+      "period": "2026-ytd",
+      "code": "90230000",
+      "country": "Liechtenstein",
+      "value": 15832
+    },
+    {
+      "period": "2025-ytd",
+      "code": "90230000",
+      "country": "Lithuania",
+      "value": 1085550
+    },
+    {
+      "period": "2026-ytd",
+      "code": "90230000",
+      "country": "Lithuania",
+      "value": 353168
+    },
+    {
+      "period": "2025-ytd",
+      "code": "38229000",
+      "country": "Lithuania",
+      "value": 69947
+    },
+    {
+      "period": "2026-ytd",
+      "code": "38229000",
+      "country": "Lithuania",
+      "value": 25383
+    },
+    {
+      "period": "2025-ytd",
+      "code": "90273080",
+      "country": "Lithuania",
+      "value": 701880
+    },
+    {
+      "period": "2026-ytd",
+      "code": "90273080",
+      "country": "Lithuania",
+      "value": 533725
+    },
+    {
+      "period": "2025-ytd",
+      "code": "38221900",
+      "country": "Lithuania",
+      "value": 149857567
+    },
+    {
+      "period": "2026-ytd",
+      "code": "38221900",
+      "country": "Lithuania",
+      "value": 45305060
+    },
+    {
+      "period": "2025-ytd",
+      "code": "90230000",
+      "country": "Luxembourg",
+      "value": 11400
+    },
+    {
+      "period": "2026-ytd",
+      "code": "90230000",
+      "country": "Luxembourg",
+      "value": 4693
+    },
+    {
+      "period": "2025-ytd",
+      "code": "90273080",
+      "country": "Macau",
+      "value": 9456
+    },
+    {
+      "period": "2026-ytd",
+      "code": "90273080",
+      "country": "Macau",
+      "value": 0
+    },
+    {
+      "period": "2025-ytd",
+      "code": "90230000",
+      "country": "Macau",
+      "value": 280479
+    },
+    {
+      "period": "2026-ytd",
+      "code": "90230000",
+      "country": "Macau",
+      "value": 41965
+    },
+    {
+      "period": "2025-ytd",
+      "code": "38229000",
+      "country": "Madagascar",
+      "value": 2675
+    },
+    {
+      "period": "2026-ytd",
+      "code": "38229000",
+      "country": "Madagascar",
+      "value": 0
+    },
+    {
+      "period": "2025-ytd",
+      "code": "38229000",
+      "country": "Malaysia",
+      "value": 30000
+    },
+    {
+      "period": "2026-ytd",
+      "code": "38229000",
+      "country": "Malaysia",
+      "value": 0
+    },
+    {
+      "period": "2025-ytd",
+      "code": "38221900",
+      "country": "Malaysia",
+      "value": 583184
+    },
+    {
+      "period": "2026-ytd",
+      "code": "38221900",
+      "country": "Malaysia",
+      "value": 1030894
+    },
+    {
+      "period": "2025-ytd",
+      "code": "90273080",
+      "country": "Malaysia",
+      "value": 100049
+    },
+    {
+      "period": "2026-ytd",
+      "code": "90273080",
+      "country": "Malaysia",
+      "value": 53366
+    },
+    {
+      "period": "2025-ytd",
+      "code": "90230000",
+      "country": "Malaysia",
+      "value": 4173850
+    },
+    {
+      "period": "2026-ytd",
+      "code": "90230000",
+      "country": "Malaysia",
+      "value": 4208767
+    },
+    {
+      "period": "2025-ytd",
+      "code": "90189060",
+      "country": "Malaysia",
+      "value": 48478910
+    },
+    {
+      "period": "2026-ytd",
+      "code": "90189060",
+      "country": "Malaysia",
+      "value": 4921694
+    },
+    {
+      "period": "2025-ytd",
+      "code": "38221900",
+      "country": "Mali",
+      "value": 6873
+    },
+    {
+      "period": "2026-ytd",
+      "code": "38221900",
+      "country": "Mali",
+      "value": 2800
+    },
+    {
+      "period": "2025-ytd",
+      "code": "38229000",
+      "country": "Malta",
+      "value": 0
+    },
+    {
+      "period": "2026-ytd",
+      "code": "38229000",
+      "country": "Malta",
+      "value": 3310
+    },
+    {
+      "period": "2025-ytd",
+      "code": "90189060",
+      "country": "Mauritius",
+      "value": 191336
+    },
+    {
+      "period": "2026-ytd",
+      "code": "90189060",
+      "country": "Mauritius",
+      "value": 254206
+    },
+    {
+      "period": "2025-ytd",
+      "code": "38229000",
+      "country": "Mexico",
+      "value": 666912
+    },
+    {
+      "period": "2026-ytd",
+      "code": "38229000",
+      "country": "Mexico",
+      "value": 1734676
+    },
+    {
+      "period": "2025-ytd",
+      "code": "90189060",
+      "country": "Mexico",
+      "value": 1371310701
+    },
+    {
+      "period": "2026-ytd",
+      "code": "90189060",
+      "country": "Mexico",
+      "value": 1318322746
+    },
+    {
+      "period": "2025-ytd",
+      "code": "90230000",
+      "country": "Mexico",
+      "value": 41580646
+    },
+    {
+      "period": "2026-ytd",
+      "code": "90230000",
+      "country": "Mexico",
+      "value": 42901438
+    },
+    {
+      "period": "2025-ytd",
+      "code": "38221900",
+      "country": "Mexico",
+      "value": 78174146
+    },
+    {
+      "period": "2026-ytd",
+      "code": "38221900",
+      "country": "Mexico",
+      "value": 101512355
+    },
+    {
+      "period": "2025-ytd",
+      "code": "90273080",
+      "country": "Mexico",
+      "value": 21453
+    },
+    {
+      "period": "2026-ytd",
+      "code": "90273080",
+      "country": "Mexico",
+      "value": 314464
+    },
+    {
+      "period": "2025-ytd",
+      "code": "90189060",
+      "country": "Monaco",
+      "value": 0
+    },
+    {
+      "period": "2026-ytd",
+      "code": "90189060",
+      "country": "Monaco",
+      "value": 28702
+    },
+    {
+      "period": "2025-ytd",
+      "code": "90230000",
+      "country": "Monaco",
+      "value": 4839
+    },
+    {
+      "period": "2026-ytd",
+      "code": "90230000",
+      "country": "Monaco",
+      "value": 0
+    },
+    {
+      "period": "2025-ytd",
+      "code": "90189060",
+      "country": "Mongolia",
+      "value": 0
+    },
+    {
+      "period": "2026-ytd",
+      "code": "90189060",
+      "country": "Mongolia",
+      "value": 34927
+    },
+    {
+      "period": "2025-ytd",
+      "code": "38229000",
+      "country": "Mongolia",
+      "value": 2704
+    },
+    {
+      "period": "2026-ytd",
+      "code": "38229000",
+      "country": "Mongolia",
+      "value": 2890
+    },
+    {
+      "period": "2025-ytd",
+      "code": "38221900",
+      "country": "Montenegro",
+      "value": 7636
+    },
+    {
+      "period": "2026-ytd",
+      "code": "38221900",
+      "country": "Montenegro",
+      "value": 0
+    },
+    {
+      "period": "2025-ytd",
+      "code": "38229000",
+      "country": "Montenegro",
+      "value": 0
+    },
+    {
+      "period": "2026-ytd",
+      "code": "38229000",
+      "country": "Montenegro",
+      "value": 2437
+    },
+    {
+      "period": "2025-ytd",
+      "code": "90230000",
+      "country": "Montenegro",
+      "value": 0
+    },
+    {
+      "period": "2026-ytd",
+      "code": "90230000",
+      "country": "Montenegro",
+      "value": 2655
+    },
+    {
+      "period": "2025-ytd",
+      "code": "90230000",
+      "country": "Morocco",
+      "value": 83067
+    },
+    {
+      "period": "2026-ytd",
+      "code": "90230000",
+      "country": "Morocco",
+      "value": 35422
+    },
+    {
+      "period": "2025-ytd",
+      "code": "38221900",
+      "country": "Morocco",
+      "value": 0
+    },
+    {
+      "period": "2026-ytd",
+      "code": "38221900",
+      "country": "Morocco",
+      "value": 0
+    },
+    {
+      "period": "2025-ytd",
+      "code": "90189060",
+      "country": "Morocco",
+      "value": 0
+    },
+    {
+      "period": "2026-ytd",
+      "code": "90189060",
+      "country": "Morocco",
+      "value": 17433
+    },
+    {
+      "period": "2025-ytd",
+      "code": "90230000",
+      "country": "Mozambique",
+      "value": 0
+    },
+    {
+      "period": "2026-ytd",
+      "code": "90230000",
+      "country": "Mozambique",
+      "value": 6315
+    },
+    {
+      "period": "2025-ytd",
+      "code": "90189060",
+      "country": "Netherlands",
+      "value": 695532
+    },
+    {
+      "period": "2026-ytd",
+      "code": "90189060",
+      "country": "Netherlands",
+      "value": 309856
+    },
+    {
+      "period": "2025-ytd",
+      "code": "38229000",
+      "country": "Netherlands",
+      "value": 2119040
+    },
+    {
+      "period": "2026-ytd",
+      "code": "38229000",
+      "country": "Netherlands",
+      "value": 2484820
+    },
+    {
+      "period": "2025-ytd",
+      "code": "90230000",
+      "country": "Netherlands",
+      "value": 8369847
+    },
+    {
+      "period": "2026-ytd",
+      "code": "90230000",
+      "country": "Netherlands",
+      "value": 6266951
+    },
+    {
+      "period": "2025-ytd",
+      "code": "38221900",
+      "country": "Netherlands",
+      "value": 40591997
+    },
+    {
+      "period": "2026-ytd",
+      "code": "38221900",
+      "country": "Netherlands",
+      "value": 29210807
+    },
+    {
+      "period": "2025-ytd",
+      "code": "90273080",
+      "country": "Netherlands",
+      "value": 1456396
+    },
+    {
+      "period": "2026-ytd",
+      "code": "90273080",
+      "country": "Netherlands",
+      "value": 1154776
+    },
+    {
+      "period": "2025-ytd",
+      "code": "90189060",
+      "country": "New Zealand",
+      "value": 0
+    },
+    {
+      "period": "2026-ytd",
+      "code": "90189060",
+      "country": "New Zealand",
+      "value": 52500
+    },
+    {
+      "period": "2025-ytd",
+      "code": "90273080",
+      "country": "New Zealand",
+      "value": 112313
+    },
+    {
+      "period": "2026-ytd",
+      "code": "90273080",
+      "country": "New Zealand",
+      "value": 7903
+    },
+    {
+      "period": "2025-ytd",
+      "code": "38221900",
+      "country": "New Zealand",
+      "value": 401102
+    },
+    {
+      "period": "2026-ytd",
+      "code": "38221900",
+      "country": "New Zealand",
+      "value": 416376
+    },
+    {
+      "period": "2025-ytd",
+      "code": "38229000",
+      "country": "New Zealand",
+      "value": 545294
+    },
+    {
+      "period": "2026-ytd",
+      "code": "38229000",
+      "country": "New Zealand",
+      "value": 516305
+    },
+    {
+      "period": "2025-ytd",
+      "code": "90230000",
+      "country": "New Zealand",
+      "value": 168357
+    },
+    {
+      "period": "2026-ytd",
+      "code": "90230000",
+      "country": "New Zealand",
+      "value": 350366
+    },
+    {
+      "period": "2025-ytd",
+      "code": "90189060",
+      "country": "Nicaragua",
+      "value": 53936
+    },
+    {
+      "period": "2026-ytd",
+      "code": "90189060",
+      "country": "Nicaragua",
+      "value": 9556
+    },
+    {
+      "period": "2025-ytd",
+      "code": "90230000",
+      "country": "North Macedonia",
+      "value": 0
+    },
+    {
+      "period": "2026-ytd",
+      "code": "90230000",
+      "country": "North Macedonia",
+      "value": 3983
+    },
+    {
+      "period": "2025-ytd",
+      "code": "90273080",
+      "country": "Norway",
+      "value": 2009026
+    },
+    {
+      "period": "2026-ytd",
+      "code": "90273080",
+      "country": "Norway",
+      "value": 1579979
+    },
+    {
+      "period": "2025-ytd",
+      "code": "38229000",
+      "country": "Norway",
+      "value": 90024
+    },
+    {
+      "period": "2026-ytd",
+      "code": "38229000",
+      "country": "Norway",
+      "value": 19722
+    },
+    {
+      "period": "2025-ytd",
+      "code": "90230000",
+      "country": "Norway",
+      "value": 31020234
+    },
+    {
+      "period": "2026-ytd",
+      "code": "90230000",
+      "country": "Norway",
+      "value": 31822906
+    },
+    {
+      "period": "2025-ytd",
+      "code": "38221900",
+      "country": "Norway",
+      "value": 116637604
+    },
+    {
+      "period": "2026-ytd",
+      "code": "38221900",
+      "country": "Norway",
+      "value": 66173087
+    },
+    {
+      "period": "2025-ytd",
+      "code": "38221900",
+      "country": "Pakistan",
+      "value": 3838
+    },
+    {
+      "period": "2026-ytd",
+      "code": "38221900",
+      "country": "Pakistan",
+      "value": 0
+    },
+    {
+      "period": "2025-ytd",
+      "code": "90189060",
+      "country": "Pakistan",
+      "value": 120393
+    },
+    {
+      "period": "2026-ytd",
+      "code": "90189060",
+      "country": "Pakistan",
+      "value": 212798
+    },
+    {
+      "period": "2025-ytd",
+      "code": "90230000",
+      "country": "Pakistan",
+      "value": 274212
+    },
+    {
+      "period": "2026-ytd",
+      "code": "90230000",
+      "country": "Pakistan",
+      "value": 269621
+    },
+    {
+      "period": "2025-ytd",
+      "code": "38221900",
+      "country": "Panama",
+      "value": 0
+    },
+    {
+      "period": "2026-ytd",
+      "code": "38221900",
+      "country": "Panama",
+      "value": 2075
+    },
+    {
+      "period": "2025-ytd",
+      "code": "90230000",
+      "country": "Panama",
+      "value": 50000
+    },
+    {
+      "period": "2026-ytd",
+      "code": "90230000",
+      "country": "Panama",
+      "value": 101667
+    },
+    {
+      "period": "2025-ytd",
+      "code": "90273080",
+      "country": "Paraguay",
+      "value": 0
+    },
+    {
+      "period": "2026-ytd",
+      "code": "90273080",
+      "country": "Paraguay",
+      "value": 37064
+    },
+    {
+      "period": "2025-ytd",
+      "code": "90189060",
+      "country": "Paraguay",
+      "value": 103374
+    },
+    {
+      "period": "2026-ytd",
+      "code": "90189060",
+      "country": "Paraguay",
+      "value": 48491
+    },
+    {
+      "period": "2025-ytd",
+      "code": "90230000",
+      "country": "Peru",
+      "value": 84768
+    },
+    {
+      "period": "2026-ytd",
+      "code": "90230000",
+      "country": "Peru",
+      "value": 205265
+    },
+    {
+      "period": "2025-ytd",
+      "code": "90273080",
+      "country": "Peru",
+      "value": 0
+    },
+    {
+      "period": "2026-ytd",
+      "code": "90273080",
+      "country": "Peru",
+      "value": 14218
+    },
+    {
+      "period": "2025-ytd",
+      "code": "90189060",
+      "country": "Peru",
+      "value": 13000
+    },
+    {
+      "period": "2026-ytd",
+      "code": "90189060",
+      "country": "Peru",
+      "value": 0
+    },
+    {
+      "period": "2025-ytd",
+      "code": "38221900",
+      "country": "Peru",
+      "value": 0
+    },
+    {
+      "period": "2026-ytd",
+      "code": "38221900",
+      "country": "Peru",
+      "value": 8295
+    },
+    {
+      "period": "2025-ytd",
+      "code": "90273080",
+      "country": "Philippines",
+      "value": 0
+    },
+    {
+      "period": "2026-ytd",
+      "code": "90273080",
+      "country": "Philippines",
+      "value": 2787
+    },
+    {
+      "period": "2025-ytd",
+      "code": "38221900",
+      "country": "Philippines",
+      "value": 5040
+    },
+    {
+      "period": "2026-ytd",
+      "code": "38221900",
+      "country": "Philippines",
+      "value": 4635
+    },
+    {
+      "period": "2025-ytd",
+      "code": "90230000",
+      "country": "Philippines",
+      "value": 849867
+    },
+    {
+      "period": "2026-ytd",
+      "code": "90230000",
+      "country": "Philippines",
+      "value": 390980
+    },
+    {
+      "period": "2025-ytd",
+      "code": "90189060",
+      "country": "Philippines",
+      "value": 217944
+    },
+    {
+      "period": "2026-ytd",
+      "code": "90189060",
+      "country": "Philippines",
+      "value": 4200
+    },
+    {
+      "period": "2025-ytd",
+      "code": "38229000",
+      "country": "Poland",
+      "value": 170980
+    },
+    {
+      "period": "2026-ytd",
+      "code": "38229000",
+      "country": "Poland",
+      "value": 173850
+    },
+    {
+      "period": "2025-ytd",
+      "code": "90189060",
+      "country": "Poland",
+      "value": 68474049
+    },
+    {
+      "period": "2026-ytd",
+      "code": "90189060",
+      "country": "Poland",
+      "value": 95541416
+    },
+    {
+      "period": "2025-ytd",
+      "code": "90273080",
+      "country": "Poland",
+      "value": 80593
+    },
+    {
+      "period": "2026-ytd",
+      "code": "90273080",
+      "country": "Poland",
+      "value": 167145
+    },
+    {
+      "period": "2025-ytd",
+      "code": "90230000",
+      "country": "Poland",
+      "value": 2983490
+    },
+    {
+      "period": "2026-ytd",
+      "code": "90230000",
+      "country": "Poland",
+      "value": 3943360
+    },
+    {
+      "period": "2025-ytd",
+      "code": "38221900",
+      "country": "Poland",
+      "value": 23281675
+    },
+    {
+      "period": "2026-ytd",
+      "code": "38221900",
+      "country": "Poland",
+      "value": 16556065
+    },
+    {
+      "period": "2025-ytd",
+      "code": "90273080",
+      "country": "Portugal",
+      "value": 0
+    },
+    {
+      "period": "2026-ytd",
+      "code": "90273080",
+      "country": "Portugal",
+      "value": 0
+    },
+    {
+      "period": "2025-ytd",
+      "code": "38229000",
+      "country": "Portugal",
+      "value": 44969
+    },
+    {
+      "period": "2026-ytd",
+      "code": "38229000",
+      "country": "Portugal",
+      "value": 54965
+    },
+    {
+      "period": "2025-ytd",
+      "code": "38221900",
+      "country": "Portugal",
+      "value": 135956
+    },
+    {
+      "period": "2026-ytd",
+      "code": "38221900",
+      "country": "Portugal",
+      "value": 57021
+    },
+    {
+      "period": "2025-ytd",
+      "code": "90189060",
+      "country": "Portugal",
+      "value": 0
+    },
+    {
+      "period": "2026-ytd",
+      "code": "90189060",
+      "country": "Portugal",
+      "value": 20588
+    },
+    {
+      "period": "2025-ytd",
+      "code": "90230000",
+      "country": "Portugal",
+      "value": 1112527
+    },
+    {
+      "period": "2026-ytd",
+      "code": "90230000",
+      "country": "Portugal",
+      "value": 1167921
+    },
+    {
+      "period": "2025-ytd",
+      "code": "38229000",
+      "country": "Qatar",
+      "value": 0
+    },
+    {
+      "period": "2026-ytd",
+      "code": "38229000",
+      "country": "Qatar",
+      "value": 11452
+    },
+    {
+      "period": "2025-ytd",
+      "code": "90230000",
+      "country": "Qatar",
+      "value": 2495
+    },
+    {
+      "period": "2026-ytd",
+      "code": "90230000",
+      "country": "Qatar",
+      "value": 0
+    },
+    {
+      "period": "2025-ytd",
+      "code": "90273080",
+      "country": "Romania",
+      "value": 465951
+    },
+    {
+      "period": "2026-ytd",
+      "code": "90273080",
+      "country": "Romania",
+      "value": 230695
+    },
+    {
+      "period": "2025-ytd",
+      "code": "38229000",
+      "country": "Romania",
+      "value": 737841
+    },
+    {
+      "period": "2026-ytd",
+      "code": "38229000",
+      "country": "Romania",
+      "value": 794406
+    },
+    {
+      "period": "2025-ytd",
+      "code": "38221900",
+      "country": "Romania",
+      "value": 14177
+    },
+    {
+      "period": "2026-ytd",
+      "code": "38221900",
+      "country": "Romania",
+      "value": 20036
+    },
+    {
+      "period": "2025-ytd",
+      "code": "90189060",
+      "country": "Romania",
+      "value": 2180119
+    },
+    {
+      "period": "2026-ytd",
+      "code": "90189060",
+      "country": "Romania",
+      "value": 4533695
+    },
+    {
+      "period": "2025-ytd",
+      "code": "90230000",
+      "country": "Romania",
+      "value": 121099
+    },
+    {
+      "period": "2026-ytd",
+      "code": "90230000",
+      "country": "Romania",
+      "value": 73436
+    },
+    {
+      "period": "2025-ytd",
+      "code": "38229000",
+      "country": "Russia",
+      "value": 11552
+    },
+    {
+      "period": "2026-ytd",
+      "code": "38229000",
+      "country": "Russia",
+      "value": 4755
+    },
+    {
+      "period": "2025-ytd",
+      "code": "38221900",
+      "country": "Russia",
+      "value": 27823
+    },
+    {
+      "period": "2026-ytd",
+      "code": "38221900",
+      "country": "Russia",
+      "value": 20850
+    },
+    {
+      "period": "2025-ytd",
+      "code": "90189060",
+      "country": "Russia",
+      "value": 0
+    },
+    {
+      "period": "2026-ytd",
+      "code": "90189060",
+      "country": "Russia",
+      "value": 9300
+    },
+    {
+      "period": "2025-ytd",
+      "code": "90230000",
+      "country": "Saudi Arabia",
+      "value": 9991
+    },
+    {
+      "period": "2026-ytd",
+      "code": "90230000",
+      "country": "Saudi Arabia",
+      "value": 7775
+    },
+    {
+      "period": "2025-ytd",
+      "code": "38221900",
+      "country": "Saudi Arabia",
+      "value": 4000
+    },
+    {
+      "period": "2026-ytd",
+      "code": "38221900",
+      "country": "Saudi Arabia",
+      "value": 10000
+    },
+    {
+      "period": "2025-ytd",
+      "code": "90230000",
+      "country": "Serbia",
+      "value": 13692
+    },
+    {
+      "period": "2026-ytd",
+      "code": "90230000",
+      "country": "Serbia",
+      "value": 2302
+    },
+    {
+      "period": "2025-ytd",
+      "code": "90273080",
+      "country": "Serbia",
+      "value": 273524
+    },
+    {
+      "period": "2026-ytd",
+      "code": "90273080",
+      "country": "Serbia",
+      "value": 85373
+    },
+    {
+      "period": "2025-ytd",
+      "code": "38229000",
+      "country": "Serbia",
+      "value": 5110
+    },
+    {
+      "period": "2026-ytd",
+      "code": "38229000",
+      "country": "Serbia",
+      "value": 0
+    },
+    {
+      "period": "2025-ytd",
+      "code": "38221900",
+      "country": "Serbia",
+      "value": 9916
+    },
+    {
+      "period": "2026-ytd",
+      "code": "38221900",
+      "country": "Serbia",
+      "value": 5157
+    },
+    {
+      "period": "2025-ytd",
+      "code": "90273080",
+      "country": "Sierra Leone",
+      "value": 0
+    },
+    {
+      "period": "2026-ytd",
+      "code": "90273080",
+      "country": "Sierra Leone",
+      "value": 5095
+    },
+    {
+      "period": "2025-ytd",
+      "code": "90189060",
+      "country": "Singapore",
+      "value": 2484938
+    },
+    {
+      "period": "2026-ytd",
+      "code": "90189060",
+      "country": "Singapore",
+      "value": 3634835
+    },
+    {
+      "period": "2025-ytd",
+      "code": "38229000",
+      "country": "Singapore",
+      "value": 11737
+    },
+    {
+      "period": "2026-ytd",
+      "code": "38229000",
+      "country": "Singapore",
+      "value": 42968
+    },
+    {
+      "period": "2025-ytd",
+      "code": "90273080",
+      "country": "Singapore",
+      "value": 50230
+    },
+    {
+      "period": "2026-ytd",
+      "code": "90273080",
+      "country": "Singapore",
+      "value": 54102
+    },
+    {
+      "period": "2025-ytd",
+      "code": "38221900",
+      "country": "Singapore",
+      "value": 457174560
+    },
+    {
+      "period": "2026-ytd",
+      "code": "38221900",
+      "country": "Singapore",
+      "value": 348006244
+    },
+    {
+      "period": "2025-ytd",
+      "code": "90230000",
+      "country": "Singapore",
+      "value": 576762
+    },
+    {
+      "period": "2026-ytd",
+      "code": "90230000",
+      "country": "Singapore",
+      "value": 293945
+    },
+    {
+      "period": "2025-ytd",
+      "code": "90273080",
+      "country": "Slovakia",
+      "value": 442943
+    },
+    {
+      "period": "2026-ytd",
+      "code": "90273080",
+      "country": "Slovakia",
+      "value": 327260
+    },
+    {
+      "period": "2025-ytd",
+      "code": "90189060",
+      "country": "Slovakia",
+      "value": 5447
+    },
+    {
+      "period": "2026-ytd",
+      "code": "90189060",
+      "country": "Slovakia",
+      "value": 17432
+    },
+    {
+      "period": "2025-ytd",
+      "code": "90230000",
+      "country": "Slovakia",
+      "value": 48662
+    },
+    {
+      "period": "2026-ytd",
+      "code": "90230000",
+      "country": "Slovakia",
+      "value": 123574
+    },
+    {
+      "period": "2025-ytd",
+      "code": "38221900",
+      "country": "Slovakia",
+      "value": 204023
+    },
+    {
+      "period": "2026-ytd",
+      "code": "38221900",
+      "country": "Slovakia",
+      "value": 141780
+    },
+    {
+      "period": "2025-ytd",
+      "code": "38229000",
+      "country": "Slovakia",
+      "value": 10689
+    },
+    {
+      "period": "2026-ytd",
+      "code": "38229000",
+      "country": "Slovakia",
+      "value": 5455
+    },
+    {
+      "period": "2025-ytd",
+      "code": "38221900",
+      "country": "Slovenia",
+      "value": 2060
+    },
+    {
+      "period": "2026-ytd",
+      "code": "38221900",
+      "country": "Slovenia",
+      "value": 12147
+    },
+    {
+      "period": "2025-ytd",
+      "code": "90189060",
+      "country": "Slovenia",
+      "value": 0
+    },
+    {
+      "period": "2026-ytd",
+      "code": "90189060",
+      "country": "Slovenia",
+      "value": 0
+    },
+    {
+      "period": "2025-ytd",
+      "code": "90230000",
+      "country": "Slovenia",
+      "value": 536945
+    },
+    {
+      "period": "2026-ytd",
+      "code": "90230000",
+      "country": "Slovenia",
+      "value": 396742
+    },
+    {
+      "period": "2025-ytd",
+      "code": "38229000",
+      "country": "South Africa",
+      "value": 8178
+    },
+    {
+      "period": "2026-ytd",
+      "code": "38229000",
+      "country": "South Africa",
+      "value": 0
+    },
+    {
+      "period": "2025-ytd",
+      "code": "90230000",
+      "country": "South Africa",
+      "value": 1298170
+    },
+    {
+      "period": "2026-ytd",
+      "code": "90230000",
+      "country": "South Africa",
+      "value": 456221
+    },
+    {
+      "period": "2025-ytd",
+      "code": "38221900",
+      "country": "South Africa",
+      "value": 7190365
+    },
+    {
+      "period": "2026-ytd",
+      "code": "38221900",
+      "country": "South Africa",
+      "value": 8286830
+    },
+    {
+      "period": "2025-ytd",
+      "code": "90273080",
+      "country": "South Africa",
+      "value": 0
+    },
+    {
+      "period": "2026-ytd",
+      "code": "90273080",
+      "country": "South Africa",
+      "value": 0
+    },
+    {
+      "period": "2025-ytd",
+      "code": "38221900",
+      "country": "South Korea",
+      "value": 62351493
+    },
+    {
+      "period": "2026-ytd",
+      "code": "38221900",
+      "country": "South Korea",
+      "value": 33553127
+    },
+    {
+      "period": "2025-ytd",
+      "code": "90189060",
+      "country": "South Korea",
+      "value": 67540971
+    },
+    {
+      "period": "2026-ytd",
+      "code": "90189060",
+      "country": "South Korea",
+      "value": 56256440
+    },
+    {
+      "period": "2025-ytd",
+      "code": "90273080",
+      "country": "South Korea",
+      "value": 296640
+    },
+    {
+      "period": "2026-ytd",
+      "code": "90273080",
+      "country": "South Korea",
+      "value": 677235
+    },
+    {
+      "period": "2025-ytd",
+      "code": "90230000",
+      "country": "South Korea",
+      "value": 4177463
+    },
+    {
+      "period": "2026-ytd",
+      "code": "90230000",
+      "country": "South Korea",
+      "value": 6603830
+    },
+    {
+      "period": "2025-ytd",
+      "code": "38229000",
+      "country": "South Korea",
+      "value": 553698
+    },
+    {
+      "period": "2026-ytd",
+      "code": "38229000",
+      "country": "South Korea",
+      "value": 119694
+    },
+    {
+      "period": "2025-ytd",
+      "code": "38221900",
+      "country": "Spain",
+      "value": 75124688
+    },
+    {
+      "period": "2026-ytd",
+      "code": "38221900",
+      "country": "Spain",
+      "value": 66583352
+    },
+    {
+      "period": "2025-ytd",
+      "code": "90273080",
+      "country": "Spain",
+      "value": 321623
+    },
+    {
+      "period": "2026-ytd",
+      "code": "90273080",
+      "country": "Spain",
+      "value": 85569
+    },
+    {
+      "period": "2025-ytd",
+      "code": "90189060",
+      "country": "Spain",
+      "value": 18424
+    },
+    {
+      "period": "2026-ytd",
+      "code": "90189060",
+      "country": "Spain",
+      "value": 92191
+    },
+    {
+      "period": "2025-ytd",
+      "code": "38229000",
+      "country": "Spain",
+      "value": 448019
+    },
+    {
+      "period": "2026-ytd",
+      "code": "38229000",
+      "country": "Spain",
+      "value": 638158
+    },
+    {
+      "period": "2025-ytd",
+      "code": "90230000",
+      "country": "Spain",
+      "value": 6461372
+    },
+    {
+      "period": "2026-ytd",
+      "code": "90230000",
+      "country": "Spain",
+      "value": 7650680
+    },
+    {
+      "period": "2025-ytd",
+      "code": "38221900",
+      "country": "Sri Lanka",
+      "value": 2567
+    },
+    {
+      "period": "2026-ytd",
+      "code": "38221900",
+      "country": "Sri Lanka",
+      "value": 4122
+    },
+    {
+      "period": "2025-ytd",
+      "code": "90273080",
+      "country": "Sweden",
+      "value": 659357
+    },
+    {
+      "period": "2026-ytd",
+      "code": "90273080",
+      "country": "Sweden",
+      "value": 629410
+    },
+    {
+      "period": "2025-ytd",
+      "code": "90230000",
+      "country": "Sweden",
+      "value": 18262060
+    },
+    {
+      "period": "2026-ytd",
+      "code": "90230000",
+      "country": "Sweden",
+      "value": 9411221
+    },
+    {
+      "period": "2025-ytd",
+      "code": "38221900",
+      "country": "Sweden",
+      "value": 405922030
+    },
+    {
+      "period": "2026-ytd",
+      "code": "38221900",
+      "country": "Sweden",
+      "value": 482455725
+    },
+    {
+      "period": "2025-ytd",
+      "code": "90189060",
+      "country": "Sweden",
+      "value": 3679460
+    },
+    {
+      "period": "2026-ytd",
+      "code": "90189060",
+      "country": "Sweden",
+      "value": 1657827
+    },
+    {
+      "period": "2025-ytd",
+      "code": "38229000",
+      "country": "Sweden",
+      "value": 2159066
+    },
+    {
+      "period": "2026-ytd",
+      "code": "38229000",
+      "country": "Sweden",
+      "value": 852415
+    },
+    {
+      "period": "2025-ytd",
+      "code": "90230000",
+      "country": "Switzerland",
+      "value": 7844130
+    },
+    {
+      "period": "2026-ytd",
+      "code": "90230000",
+      "country": "Switzerland",
+      "value": 6850737
+    },
+    {
+      "period": "2025-ytd",
+      "code": "38221900",
+      "country": "Switzerland",
+      "value": 12207271
+    },
+    {
+      "period": "2026-ytd",
+      "code": "38221900",
+      "country": "Switzerland",
+      "value": 15871152
+    },
+    {
+      "period": "2025-ytd",
+      "code": "90273080",
+      "country": "Switzerland",
+      "value": 1917438
+    },
+    {
+      "period": "2026-ytd",
+      "code": "90273080",
+      "country": "Switzerland",
+      "value": 1835183
+    },
+    {
+      "period": "2025-ytd",
+      "code": "90189060",
+      "country": "Switzerland",
+      "value": 49831153
+    },
+    {
+      "period": "2026-ytd",
+      "code": "90189060",
+      "country": "Switzerland",
+      "value": 17814039
+    },
+    {
+      "period": "2025-ytd",
+      "code": "38229000",
+      "country": "Switzerland",
+      "value": 2028481
+    },
+    {
+      "period": "2026-ytd",
+      "code": "38229000",
+      "country": "Switzerland",
+      "value": 1701425
+    },
+    {
+      "period": "2025-ytd",
+      "code": "90189060",
+      "country": "Taiwan",
+      "value": 78828320
+    },
+    {
+      "period": "2026-ytd",
+      "code": "90189060",
+      "country": "Taiwan",
+      "value": 97331476
+    },
+    {
+      "period": "2025-ytd",
+      "code": "38221900",
+      "country": "Taiwan",
+      "value": 30478920
+    },
+    {
+      "period": "2026-ytd",
+      "code": "38221900",
+      "country": "Taiwan",
+      "value": 25471895
+    },
+    {
+      "period": "2025-ytd",
+      "code": "90230000",
+      "country": "Taiwan",
+      "value": 12937039
+    },
+    {
+      "period": "2026-ytd",
+      "code": "90230000",
+      "country": "Taiwan",
+      "value": 10532502
+    },
+    {
+      "period": "2025-ytd",
+      "code": "38229000",
+      "country": "Taiwan",
+      "value": 2622642
+    },
+    {
+      "period": "2026-ytd",
+      "code": "38229000",
+      "country": "Taiwan",
+      "value": 631004
+    },
+    {
+      "period": "2025-ytd",
+      "code": "90273080",
+      "country": "Taiwan",
+      "value": 612381
+    },
+    {
+      "period": "2026-ytd",
+      "code": "90273080",
+      "country": "Taiwan",
+      "value": 231882
+    },
+    {
+      "period": "2025-ytd",
+      "code": "90230000",
+      "country": "Tanzania",
+      "value": 2346
+    },
+    {
+      "period": "2026-ytd",
+      "code": "90230000",
+      "country": "Tanzania",
+      "value": 0
+    },
+    {
+      "period": "2025-ytd",
+      "code": "90230000",
+      "country": "Thailand",
+      "value": 4121375
+    },
+    {
+      "period": "2026-ytd",
+      "code": "90230000",
+      "country": "Thailand",
+      "value": 947325
+    },
+    {
+      "period": "2025-ytd",
+      "code": "90273080",
+      "country": "Thailand",
+      "value": 5000
+    },
+    {
+      "period": "2026-ytd",
+      "code": "90273080",
+      "country": "Thailand",
+      "value": 35888
+    },
+    {
+      "period": "2025-ytd",
+      "code": "38221900",
+      "country": "Thailand",
+      "value": 8842
+    },
+    {
+      "period": "2026-ytd",
+      "code": "38221900",
+      "country": "Thailand",
+      "value": 21242
+    },
+    {
+      "period": "2025-ytd",
+      "code": "90189060",
+      "country": "Thailand",
+      "value": 74753288
+    },
+    {
+      "period": "2026-ytd",
+      "code": "90189060",
+      "country": "Thailand",
+      "value": 28875960
+    },
+    {
+      "period": "2025-ytd",
+      "code": "38229000",
+      "country": "Thailand",
+      "value": 6829
+    },
+    {
+      "period": "2026-ytd",
+      "code": "38229000",
+      "country": "Thailand",
+      "value": 0
+    },
+    {
+      "period": "2025-ytd",
+      "code": "90230000",
+      "country": "Togo",
+      "value": 0
+    },
+    {
+      "period": "2026-ytd",
+      "code": "90230000",
+      "country": "Togo",
+      "value": 10000
+    },
+    {
+      "period": "2025-ytd",
+      "code": "90189060",
+      "country": "Turkey",
+      "value": 12502
+    },
+    {
+      "period": "2026-ytd",
+      "code": "90189060",
+      "country": "Turkey",
+      "value": 202586
+    },
+    {
+      "period": "2025-ytd",
+      "code": "38221900",
+      "country": "Turkey",
+      "value": 373423
+    },
+    {
+      "period": "2026-ytd",
+      "code": "38221900",
+      "country": "Turkey",
+      "value": 484635
+    },
+    {
+      "period": "2025-ytd",
+      "code": "38229000",
+      "country": "Turkey",
+      "value": 2146633
+    },
+    {
+      "period": "2026-ytd",
+      "code": "38229000",
+      "country": "Turkey",
+      "value": 1611541
+    },
+    {
+      "period": "2025-ytd",
+      "code": "90273080",
+      "country": "Turkey",
+      "value": 27600
+    },
+    {
+      "period": "2026-ytd",
+      "code": "90273080",
+      "country": "Turkey",
+      "value": 4000
+    },
+    {
+      "period": "2025-ytd",
+      "code": "90230000",
+      "country": "Turkey",
+      "value": 6298698
+    },
+    {
+      "period": "2026-ytd",
+      "code": "90230000",
+      "country": "Turkey",
+      "value": 7028885
+    },
+    {
+      "period": "2025-ytd",
+      "code": "90230000",
+      "country": "Turks and Caicos Islands",
+      "value": 33164
+    },
+    {
+      "period": "2026-ytd",
+      "code": "90230000",
+      "country": "Turks and Caicos Islands",
+      "value": 0
+    },
+    {
+      "period": "2025-ytd",
+      "code": "38229000",
+      "country": "Ukraine",
+      "value": 64418
+    },
+    {
+      "period": "2026-ytd",
+      "code": "38229000",
+      "country": "Ukraine",
+      "value": 84956
+    },
+    {
+      "period": "2025-ytd",
+      "code": "38221900",
+      "country": "Ukraine",
+      "value": 12288590
+    },
+    {
+      "period": "2026-ytd",
+      "code": "38221900",
+      "country": "Ukraine",
+      "value": 14805420
+    },
+    {
+      "period": "2025-ytd",
+      "code": "90230000",
+      "country": "Ukraine",
+      "value": 310863
+    },
+    {
+      "period": "2026-ytd",
+      "code": "90230000",
+      "country": "Ukraine",
+      "value": 77742
+    },
+    {
+      "period": "2025-ytd",
+      "code": "90230000",
+      "country": "United Arab Emirates",
+      "value": 775588
+    },
+    {
+      "period": "2026-ytd",
+      "code": "90230000",
+      "country": "United Arab Emirates",
+      "value": 1589242
+    },
+    {
+      "period": "2025-ytd",
+      "code": "90189060",
+      "country": "United Kingdom",
+      "value": 24891482
+    },
+    {
+      "period": "2026-ytd",
+      "code": "90189060",
+      "country": "United Kingdom",
+      "value": 27584912
+    },
+    {
+      "period": "2025-ytd",
+      "code": "38229000",
+      "country": "United Kingdom",
+      "value": 17191963
+    },
+    {
+      "period": "2026-ytd",
+      "code": "38229000",
+      "country": "United Kingdom",
+      "value": 15910623
+    },
+    {
+      "period": "2025-ytd",
+      "code": "90273080",
+      "country": "United Kingdom",
+      "value": 5220876
+    },
+    {
+      "period": "2026-ytd",
+      "code": "90273080",
+      "country": "United Kingdom",
+      "value": 4295545
+    },
+    {
+      "period": "2025-ytd",
+      "code": "90230000",
+      "country": "United Kingdom",
+      "value": 39298835
+    },
+    {
+      "period": "2026-ytd",
+      "code": "90230000",
+      "country": "United Kingdom",
+      "value": 37821423
+    },
+    {
+      "period": "2025-ytd",
+      "code": "38221900",
+      "country": "United Kingdom",
+      "value": 573841047
+    },
+    {
+      "period": "2026-ytd",
+      "code": "38221900",
+      "country": "United Kingdom",
+      "value": 411793621
+    },
+    {
+      "period": "2025-ytd",
+      "code": "90230000",
+      "country": "Uruguay",
+      "value": 16505
+    },
+    {
+      "period": "2026-ytd",
+      "code": "90230000",
+      "country": "Uruguay",
+      "value": 45350
+    },
+    {
+      "period": "2025-ytd",
+      "code": "38221900",
+      "country": "Vietnam",
+      "value": 43698
+    },
+    {
+      "period": "2026-ytd",
+      "code": "38221900",
+      "country": "Vietnam",
+      "value": 207678
+    },
+    {
+      "period": "2025-ytd",
+      "code": "90189060",
+      "country": "Vietnam",
+      "value": 17192489
+    },
+    {
+      "period": "2026-ytd",
+      "code": "90189060",
+      "country": "Vietnam",
+      "value": 8075395
+    },
+    {
+      "period": "2025-ytd",
+      "code": "38229000",
+      "country": "Vietnam",
+      "value": 6483773
+    },
+    {
+      "period": "2026-ytd",
+      "code": "38229000",
+      "country": "Vietnam",
+      "value": 6570603
+    },
+    {
+      "period": "2025-ytd",
+      "code": "90230000",
+      "country": "Vietnam",
+      "value": 5447747
+    },
+    {
+      "period": "2026-ytd",
+      "code": "90230000",
+      "country": "Vietnam",
+      "value": 7660531
+    },
+    {
+      "period": "2025-ytd",
+      "code": "90273080",
+      "country": "Vietnam",
+      "value": 32033
+    },
+    {
+      "period": "2026-ytd",
+      "code": "90273080",
+      "country": "Vietnam",
+      "value": 10087
+    }
+  ]
+}
