@@ -2,21 +2,6 @@
 
 A buildless, public-facing dashboard for five selected US import categories. No accounts, API keys, dependencies, analytics, or backend required. Includes 1,015 observations from the original USITC DataWeb export, retrieved November 11, 2026.
 
-## Cloudflare Pages through GitHub
-
-1. Unzip this package and upload its contents to a GitHub repository, preserving the `dist` directory.
-2. In Cloudflare Pages, connect that repository and select your production branch.
-3. Framework preset: **None**. Build command: **`exit 0`**. Build output directory: **`dist`**. Leave root directory blank if these files are at the repository root.
-4. Deploy. Cloudflare supplies a public URL. Attach your domain in the project's Custom domains settings if desired.
-
-Official instructions: https://developers.cloudflare.com/pages/framework-guides/deploy-anything/
-
-For a direct upload, upload the contents of `dist` (the directory containing `index.html`), rather than this entire source package. For GitHub Pages, use the included workflow and select GitHub Actions as the Pages deployment source in repository settings.
-
-## Local preview
-
-Open `dist/index.html` in a browser. Data is bundled as JavaScript, so file-based previews work without a server. Alternatively, run `python3 -m http.server 8000 --directory dist` and open http://localhost:8000.
-
 ## Data and interpretation
 
 Source: https://dataweb.usitc.gov/trade/search/Import/HTS
@@ -35,4 +20,4 @@ Country concentration is not firm concentration, substitutability, or imports' s
 
 To reproduce the bundled data: `python3 scripts/import_data.py dist/data/original-dataweb-export.xlsx` (use a separate source path if replacing the included workbook). The script checks all three grand totals and duplicate keys. For a new release, update reporting-period metadata, expected totals, script mappings, and all dates in the UI before publishing. Do not simply replace the workbook with an unrelated export. The snapshot does not auto-update.
 
-Before publishing, review the figures and scope. Source data remain attributable to USITC/Census; the presentation is independent and does not imply agency endorsement.
+This presentation is independent and does not imply agency endorsement.
