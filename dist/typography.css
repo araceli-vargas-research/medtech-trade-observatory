@@ -1,0 +1,85 @@
+/* Shared reading styles. Load after layout and CCC brand styles. */
+:root {
+  --body-size: 1rem;
+  --body-leading: 1.6;
+  --reading-measure: 70ch;
+}
+body {
+  font-size: var(--body-size);
+  line-height: var(--body-leading);
+  -webkit-text-size-adjust: 100%;
+  text-size-adjust: 100%;
+}
+/* Labels and data have their own scale; all prose uses the same readable body style. */
+body main p:not(.eyebrow),
+.trade-dashboard main p:not(.eyebrow),
+.trade-dashboard main .scope,
+.trade-dashboard main .insight,
+body main .intro,
+body main .scope,
+body main .insight,
+body main .source-meta {
+  font-size: var(--body-size);
+  line-height: var(--body-leading);
+  max-width: var(--reading-measure);
+  max-inline-size: var(--reading-measure);
+  height: auto;
+  max-height: none;
+  overflow: visible;
+  white-space: normal;
+  overflow-wrap: break-word;
+  letter-spacing: normal;
+  font-weight: 400;
+}
+body main .intro { margin-top: 0; }
+body main p.contract-value { font-size: 1.125rem; font-weight: 600; }
+body main p strong { font-weight: 600; }
+body main .tariff-context p { margin-block: 0 1.25rem; }
+body main .tariff-context p.eyebrow { margin-bottom: 1rem; }
+body main .tariff-context p strong { font-weight: 600; }
+body h1, body h2, body h3 {
+  height: auto;
+  max-height: none;
+  overflow: visible;
+  overflow-wrap: break-word;
+  line-height: 1.25;
+}
+body main .hero h1, .trade-dashboard main .hero h1 { line-height: 1.2; }
+body main .category-title h3 { line-height: 1.35; }
+body .source-links a, body .method-details summary,
+body label, body input, body select, body button {
+  line-height: 1.5;
+}
+body .source-links a, body .method-details summary { font-size: 0.875rem; }
+body .consumer-cards article,
+body .contract-grid article,
+body .category-title,
+body .detail,
+body .method > div,
+body .hero > div {
+  min-width: 0;
+  height: auto;
+  max-height: none;
+  overflow: visible;
+}
+body .consumer-cards, body .contract-grid { align-items: start; }
+body .table-wrap { max-width: 100%; overflow: auto; }
+body th, body td { line-height: 1.5; }
+body .consumer-table td, body .consumer-table th,
+body .codebook-table td, body .canada-table td {
+  overflow-wrap: break-word;
+}
+body .bar-row { font-size: 0.875rem; line-height: 1.5; }
+body .bar-row > span:first-child { min-width: 0; overflow-wrap: break-word; }
+body main .metric strong { font-size: 1.125rem; line-height: 1.5; letter-spacing: normal; }
+body .metric small, body .metric em { line-height: 1.5; }
+body .metric em { display: block; }
+body footer { line-height: 1.5; }
+@media (max-width: 700px) {
+  body .chart-heading { flex-wrap: wrap; align-items: flex-start; }
+  body .chart-heading h3 { line-height: 1.4; }
+  body .bar-row { grid-template-columns: minmax(0, 100px) minmax(0, 1fr) 48px; }
+  body .edition p { display: block; margin-left: 0; }
+  body .edition { min-width: 0; }
+  body .dataset-control, body .view-buttons { min-width: 0; flex-wrap: wrap; }
+}
