@@ -10,7 +10,7 @@ Imports for consumption, customs value in actual USD, HTS8; all countries, progr
 
 Country share = country value / total value within code and period. CR3 sums the three largest shares. Country HHI sums squared percentage shares across all countries. Positive-value countries are ranked. The country table excludes zero values; the complete CSV/JSON preserves them. Search filters the table only; selected-category export downloads all positive-value countries in the selected code and period.
 
-Country concentration is not firm concentration, substitutability, or imports' share of US consumption. Categories may include nonmedical products. This dashboard does not establish tariff liability, identify affected companies, or demonstrate causation. No tariff rates or unverified company lists are presented.
+Country concentration is not firm concentration, substitutability, or imports' share of US consumption. Categories may include nonmedical products. This dashboard does not establish tariff liability, identify affected companies, or demonstrate causation. The policy context cites the October 23, 2026 Section 338 proclamation and its annexes, which add these five categories to the Canada-specific additional 50% tariff effective October 30, 2026. The US$1,024,222,992 annual baseline is the sum of Canada’s 2025 imports across the five codes, not duty paid. All displayed trade periods predate this expansion. Category examples are illustrative; source links appear in Sources & Methods. No unverified company lists are presented.
 
 ## Files
 
@@ -22,3 +22,17 @@ Country concentration is not firm concentration, substitutability, or imports' s
 To reproduce the bundled data: `python3 scripts/import_data.py dist/data/original-dataweb-export.xlsx` (use a separate source path if replacing the included workbook). The script checks all three grand totals and duplicate keys. For a new release, update reporting-period metadata, expected totals, script mappings, and all dates in the UI before publishing. Do not simply replace the workbook with an unrelated export. The snapshot does not auto-update.
 
 This presentation is independent and does not imply agency endorsement.
+
+## Canadian procurement companion
+
+Open `canada.html` from the same static server (`http://localhost:8000/canada.html`). It is a separate historical federal COVID-19 procurement pilot, not a national ranking of current hospital purchases. Seven medical categories are transcribed from PSPC’s August 31, 2022 quantity table; two nonmedical mask categories are excluded. June 2022 manufacturing statements are displayed separately and are never multiplied by the August totals. No item prices are inferred for that table. Two contract-value-per-planned-unit examples are labeled separately from product prices.
+
+- `dist/data/canada-research.md`: collection log, sources, limitations and next data requirements.
+- `dist/data/canada-procurement.{json,js,csv}`: collected observations and evidence metadata.
+- `scripts/build_canada_data.py`: rebuild the data files from the verified observations; does not fetch updates.
+- `dist/canada-model.js`: CSV validation and procurement aggregation.
+- `dist/data/procurement-template.csv`: blank purchasing-data template.
+
+The companion can load actual purchase lines locally in the browser. Select one buyer, fiscal year and normalized unit. Quantity and weighted unit-cost rankings show up to ten products within that scope. Cost rankings exclude products with missing line costs. Manufacturing shares include unknown origin in their denominators; spending shares require complete costs and a positive total. Imported origins are declarations in the file, not independently certified. Normalize pack sizes, use CAD net costs on a consistent basis, and group equivalent products before importing. No files are uploaded or persisted.
+
+Validation: `node scripts/test_canada_model.js`.
