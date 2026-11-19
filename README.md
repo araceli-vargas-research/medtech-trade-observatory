@@ -36,3 +36,9 @@ Open `canada.html` from the same static server (`http://localhost:8000/canada.ht
 The companion can load actual purchase lines locally in the browser. Select one buyer, fiscal year and normalized unit. Quantity and weighted unit-cost rankings show up to ten products within that scope. Cost rankings exclude products with missing line costs. Manufacturing shares include unknown origin in their denominators; spending shares require complete costs and a positive total. Imported origins are declarations in the file, not independently certified. Normalize pack sizes, use CAD net costs on a consistent basis, and group equivalent products before importing. No files are uploaded or persisted.
 
 Validation: `node scripts/test_canada_model.js`.
+
+## Cloudflare Workers deployment
+
+The `workers.dev` site is separate from the optional GitHub Pages workflow. The tracked `wrangler.jsonc` deploys `dist/` to the existing Worker named `medtech-trade-observatory`. From this checkout, run `npx wrangler login` with the owning Cloudflare account, then `npx wrangler deploy`. The expected production URL is https://medtech-trade-observatory.araceli-fd2.workers.dev.
+
+For automatic Cloudflare deployments, connect this GitHub repository to that Worker in Cloudflare Workers Builds, select `main`, leave the build command empty (the site is buildless), and use `npx wrangler deploy` as the deploy command. A successful GitHub push alone does not verify a Cloudflare deployment.
