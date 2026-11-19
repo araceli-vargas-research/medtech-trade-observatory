@@ -470,3 +470,57 @@ footer span:first-child {
 .codebook-table tbody th { text-align: left; white-space: nowrap; background: white; border-top: 1px solid var(--line); }
 .codebook-table td { text-align: left; }
 @media(max-width:700px) { .trade-scale, .shipping-note { padding: 18px; } }
+
+/* Readable story typography and navigation at every screen width. */
+.trade-dashboard { font-size: 16px; }
+.trade-dashboard header { flex-wrap: wrap; }
+.trade-dashboard nav { flex-wrap: wrap; font-size: 14px; gap: 14px 20px; }
+.trade-dashboard .hero > div { min-width: 0; }
+.trade-dashboard .hero h1 { font-size: clamp(32px, 3.8vw, 52px); line-height: 1.12; }
+.trade-dashboard .scope { font-size: 14px; }
+.trade-dashboard .tariff-context > p:not(.eyebrow):not(.tariff-lead):not(.subnote) { max-width: 90ch; }
+.trade-dashboard .tariff-context .tariff-lead {
+  max-width: 1080px;
+  font-size: clamp(22px, 2.3vw, 30px);
+  line-height: 1.45;
+  letter-spacing: -0.35px;
+}
+.trade-dashboard .eyebrow { font-size: 11px; }
+.trade-dashboard .consumer-cards p { font-size: 16px; }
+.trade-dashboard .consumer-table { font-size: 14px; }
+.trade-dashboard .consumer-table th { font-size: 13px; }
+.trade-dashboard .consumer-table tbody th { font-size: 14px; }
+.trade-dashboard .consumer-table small { font-size: 13px; }
+.trade-dashboard .subnote, .trade-dashboard .chart-note { font-size: 13px; line-height: 1.65; }
+.trade-dashboard .source-links a, .trade-dashboard .method p,
+.trade-dashboard .method-details p, .trade-dashboard .method-details summary { font-size: 14px; }
+.trade-dashboard .method { gap: 40px; }
+.trade-dashboard .method > div { min-width: 0; }
+.trade-dashboard label { font-size: 13px; }
+.trade-dashboard table { font-size: 14px; }
+.trade-dashboard th { font-size: 12px; }
+.trade-dashboard td button { font-size: 14px; }
+.trade-dashboard .table-tools span { font-size: 13px; }
+.trade-dashboard .metric small, .trade-dashboard .metric em { font-size: 11px; }
+.trade-dashboard footer { flex-wrap: wrap; font-size: 12px; }
+@media (min-width: 701px) and (max-width: 1100px) {
+  .trade-dashboard nav { flex-basis: 100%; justify-content: flex-start; }
+}
+@media (max-width: 700px) {
+  .trade-dashboard header { gap: 18px; }
+  .trade-dashboard nav {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    width: 100%;
+    gap: 10px 16px;
+    font-size: 13px;
+  }
+  .trade-dashboard nav a { min-width: 0; padding: 5px 0; }
+  .trade-dashboard nav .download { display: block; grid-column: 1 / -1; padding: 9px 12px; text-align: center; }
+  .trade-dashboard .hero { padding-top: 30px; }
+  .trade-dashboard .hero h1 { font-size: clamp(30px, 8vw, 42px); letter-spacing: -1px; }
+  .trade-dashboard .tariff-context .tariff-lead { font-size: 22px; line-height: 1.5; letter-spacing: -0.2px; }
+  .trade-dashboard .edition { min-width: 0; }
+  .trade-dashboard .method { gap: 24px; }
+  .trade-dashboard .category { font-size: 13px; }
+}
