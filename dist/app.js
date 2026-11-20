@@ -13,6 +13,7 @@ const $ = id => document.getElementById(id);
 const money = n => new Intl.NumberFormat('en-US',{style:'currency',currency:'USD',maximumFractionDigits:0}).format(n);
 const compact = n => n >= 1e9 ? '$'+(n/1e9).toFixed(2)+'bn' : '$'+(n/1e6).toFixed(1)+'m';
 const pct = n => n.toFixed(1)+'%';
+const countryPct = n => n > 0 && n < 0.001 ? '&lt;0.001%' : n.toFixed(3)+'%';
 const esc = s => String(s).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 let code = '90189060', period = '2025';
 const params = new URLSearchParams(location.hash.slice(1));
@@ -39,7 +40,7 @@ function render(){
  $('comparison-body').querySelectorAll('button').forEach(b=>b.onclick=()=>{choose(b.dataset.code);$('explore').scrollIntoView({behavior:'smooth'});});
  renderCountries();
 }
-function renderCountries(){const s=stats(code,period),term=$('search').value.trim().toLowerCase();let rows=s.rows.map((r,i)=>({...r,rank:i+1})).filter(r=>r.country.toLowerCase().includes(term));if($('sort').value==='name')rows.sort((a,b)=>a.country.localeCompare(b.country));$('row-count').textContent=`${rows.length} of ${s.rows.length} countries with positive imports`;$('country-caption').textContent=names[code]+' · '+periods[period];$('country-body').innerHTML=rows.length?rows.map(r=>`<tr class="${r.country==='Canada'?'ca-cell':''}"><td>${r.rank}</td><td>${esc(r.country)}</td><td>${money(r.value)}</td><td>${pct(r.value/s.total*100)}</td></tr>`).join(''):'<tr><td colspan="4">No countries match your search.</td></tr>';}
+function renderCountries(){const s=stats(code,period),term=$('search').value.trim().toLowerCase();let rows=s.rows.map((r,i)=>({...r,rank:i+1})).filter(r=>r.country.toLowerCase().includes(term));if($('sort').value==='name')rows.sort((a,b)=>a.country.localeCompare(b.country));$('row-count').textContent=`${rows.length} of ${s.rows.length} countries with positive imports`;$('country-caption').textContent=names[code]+' · '+periods[period];$('country-body').innerHTML=rows.length?rows.map(r=>`<tr class="${r.country==='Canada'?'ca-cell':''}"><td>${r.rank}</td><td>${esc(r.country)}</td><td>${money(r.value)}</td><td>${countryPct(r.value/s.total*100)}</td></tr>`).join(''):'<tr><td colspan="4">No countries match your search.</td></tr>';}
 $('period').onchange=e=>{period=e.target.value;render();};$('search').oninput=renderCountries;$('sort').onchange=renderCountries;
 $('export-filtered').onclick=()=>{const s=stats(code,period);const csv=['period,hts_code,country,customs_value_usd,share_percent',...s.rows.map(r=>[period,code,'"'+r.country.replaceAll('"','""')+'"',r.value,(r.value/s.total*100).toFixed(6)].join(','))].join('\r\n');const url=URL.createObjectURL(new Blob([csv],{type:'text/csv;charset=utf-8'}));const a=document.createElement('a');a.href=url;a.download=`imports-${code}-${period}.csv`;a.click();setTimeout(()=>URL.revokeObjectURL(url),1000);};
 render();
