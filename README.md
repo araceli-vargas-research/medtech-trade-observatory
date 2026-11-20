@@ -42,3 +42,7 @@ Validation: `node scripts/test_canada_model.js`.
 The `workers.dev` site is separate from the optional GitHub Pages workflow. The tracked `wrangler.jsonc` deploys `dist/` to the existing Worker named `medtech-trade-observatory`. From this checkout, run `npx wrangler login` with the owning Cloudflare account, then `npx wrangler deploy`. The expected production URL is https://medtech-trade-observatory.araceli-fd2.workers.dev.
 
 For automatic Cloudflare deployments, connect this GitHub repository to that Worker in Cloudflare Workers Builds, select `main`, leave the build command empty (the site is buildless), and use `npx wrangler deploy` as the deploy command. A successful GitHub push alone does not verify a Cloudflare deployment.
+
+## Opening design
+
+The trade dashboard uses a responsive split introduction, a navy policy summary and native expandable overview questions. `dist/story.css` contains these presentation styles; the shared `dist/typography.css` retains 16px body copy, 1.6 line-height and a 70-character reading measure. The laboratory photo is illustrative and credited to CDC via Unsplash; its source and license are recorded in `dist/images/sources.json`. The underlying trade data and explorer calculations are unchanged.
